@@ -6,8 +6,8 @@
   "name":"ed_ibc",
   "overriddenProperties":[],
   "parent":{
-    "name":"Street_obj",
-    "path":"folders/Objetos/Street_obj.yy",
+    "name":"edif_pucv",
+    "path":"folders/Objetos/Street_obj/edif_pucv.yy",
   },
   "parentObjectId":{
     "name":"Objeto",

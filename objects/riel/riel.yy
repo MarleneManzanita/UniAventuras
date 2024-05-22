@@ -6,8 +6,8 @@
   "name":"riel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Street_obj",
-    "path":"folders/Objetos/Street_obj.yy",
+    "name":"street_decorations_obj",
+    "path":"folders/Objetos/Street_obj/street_decorations_obj.yy",
   },
   "parentObjectId":null,
   "persistent":false,

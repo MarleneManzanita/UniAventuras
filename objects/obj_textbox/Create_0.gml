@@ -14,15 +14,12 @@ txtb_img_spd= 0;
 //texto
 page=0;
 page_number=0;
-text[0] = "Wow, no puedo creer que por fin ha llegado este día , mi primer dia de universidad. Me pregunto que me esperara en esta nueva etapa";
-text[1]="¿Como sera el lugar? ¿Como seran mis compañeros? ¿Sera esta carrera realmente lo que yo quiero?";
-text[2]="Me pregunto cuantas de las personas que estan en este metro seran de mi carrera…";
-text[3]="*******Estación Francia******"
-text[4]=". . .";
-text[5]=" ¡Cierto! El correo decía que debía bajarme en Francia.";
-text_length[0] = string_length(text[0]);
+texto[0]="";
+text_length[0]=string_length(texto[0]);
 
 draw_char=0;
 text_spd =1;
 
 setup=false;
+
+//control

@@ -1,0 +1,75 @@
+{
+  "$GMRoom":"",
+  "%Name":"room_preguntas",
+  "creationCodeFile":"",
+  "inheritCode":false,
+  "inheritCreationOrder":false,
+  "inheritLayers":false,
+  "instanceCreationOrder":[
+    {"name":"inst_71FB5F3B","path":"rooms/room_preguntas/room_preguntas.yy",},
+    {"name":"inst_6AD46FAE","path":"rooms/room_preguntas/room_preguntas.yy",},
+    {"name":"inst_565C3E19","path":"rooms/room_preguntas/room_preguntas.yy",},
+    {"name":"inst_37CCF98D","path":"rooms/room_preguntas/room_preguntas.yy",},
+  ],
+  "isDnd":false,
+  "layers":[
+    {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"","%Name":"inst_71FB5F3B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_71FB5F3B","objectId":{"name":"preg_obj","path":"objects/preg_obj/preg_obj.yy",},"properties":[
+            {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"preg_obj","path":"objects/preg_obj/preg_obj.yy",},"propertyId":{"name":"correct_ans","path":"objects/preg_obj/preg_obj.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+            {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"preg_obj","path":"objects/preg_obj/preg_obj.yy",},"propertyId":{"name":"texto","path":"objects/preg_obj/preg_obj.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"¿Cuál es el nombre del edificio de informática\"",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.3333335,"scaleY":5.0,"x":736.0,"y":135.0,},
+        {"$GMRInstance":"","%Name":"inst_6AD46FAE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6AD46FAE","objectId":{"name":"resp_obj","path":"objects/resp_obj/resp_obj.yy",},"properties":[
+            {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"resp_obj","path":"objects/resp_obj/resp_obj.yy",},"propertyId":{"name":"id_resp","path":"objects/resp_obj/resp_obj.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
+            {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"resp_obj","path":"objects/resp_obj/resp_obj.yy",},"propertyId":{"name":"texto","path":"objects/resp_obj/resp_obj.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Facultad de ingeniería\"",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.3333333,"scaleY":7.0,"x":384.0,"y":416.0,},
+        {"$GMRInstance":"","%Name":"inst_565C3E19","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_565C3E19","objectId":{"name":"resp_obj","path":"objects/resp_obj/resp_obj.yy",},"properties":[
+            {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"resp_obj","path":"objects/resp_obj/resp_obj.yy",},"propertyId":{"name":"id_resp","path":"objects/resp_obj/resp_obj.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+            {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"resp_obj","path":"objects/resp_obj/resp_obj.yy",},"propertyId":{"name":"texto","path":"objects/resp_obj/resp_obj.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Isabel Brown Caces",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.3333333,"scaleY":7.0,"x":704.0,"y":416.0,},
+        {"$GMRInstance":"","%Name":"inst_37CCF98D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_37CCF98D","objectId":{"name":"resp_obj","path":"objects/resp_obj/resp_obj.yy",},"properties":[
+            {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"resp_obj","path":"objects/resp_obj/resp_obj.yy",},"propertyId":{"name":"id_resp","path":"objects/resp_obj/resp_obj.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
+            {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"resp_obj","path":"objects/resp_obj/resp_obj.yy",},"propertyId":{"name":"texto","path":"objects/resp_obj/resp_obj.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Ramon Ariztía\"",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.3333333,"scaleY":7.0,"x":1031.0,"y":416.0,},
+      ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"fondo_game","path":"sprites/fondo_game/fondo_game.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+  ],
+  "name":"room_preguntas",
+  "parent":{
+    "name":"Salas",
+    "path":"folders/Salas.yy",
+  },
+  "parentRoom":null,
+  "physicsSettings":{
+    "inheritPhysicsSettings":false,
+    "PhysicsWorld":false,
+    "PhysicsWorldGravityX":0.0,
+    "PhysicsWorldGravityY":10.0,
+    "PhysicsWorldPixToMetres":0.1,
+  },
+  "resourceType":"GMRoom",
+  "resourceVersion":"2.0",
+  "roomSettings":{
+    "Height":694,
+    "inheritRoomSettings":false,
+    "persistent":false,
+    "Width":1504,
+  },
+  "sequenceId":null,
+  "views":[
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+  ],
+  "viewSettings":{
+    "clearDisplayBuffer":true,
+    "clearViewBackground":false,
+    "enableViews":false,
+    "inheritViewSettings":false,
+  },
+  "volume":1.0,
+}

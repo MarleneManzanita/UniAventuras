@@ -6,8 +6,8 @@
   "name":"rell_10",
   "overriddenProperties":[],
   "parent":{
-    "name":"Street_obj",
-    "path":"folders/Objetos/Street_obj.yy",
+    "name":"relleno",
+    "path":"folders/Objetos/Street_obj/relleno.yy",
   },
   "parentObjectId":{
     "name":"Objeto",

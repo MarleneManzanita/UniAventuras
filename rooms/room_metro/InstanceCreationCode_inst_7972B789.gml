@@ -1,0 +1,1 @@
+scr_texto_inicio();

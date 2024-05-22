@@ -37,5 +37,5 @@
     "path":"sprites/str_limit/str_limit.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

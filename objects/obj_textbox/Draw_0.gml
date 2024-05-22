@@ -2,21 +2,29 @@
 // Puede escribir su código en este editor
 var accept_key = keyboard_check_pressed(ord("Z"));
 var textbox_x = camera_get_view_x(view_camera[0]);
-var textbox_y = camera_get_view_y(view_camera[0])+ 144;
+
+var dif=144;
+
+if(room!=room_metro&& room!=IBC_aula_mayor){
+	dif=250;
+}
+var textbox_y = camera_get_view_y(view_camera[0])+ dif;
+
+
 
 //setup
 
-if setup!=true
+if !setup
 {
 	setup=true;
 	draw_set_font(fnt_dialog);
 	draw_set_valign(fa_top);
 	draw_set_halign(fa_left);
 	
-	page_number= array_length(text);
+	page_number= array_length(texto);
 	
 	for (var p=0;p<page_number;p++){
-		text_length[p] = string_length(text[p]);
+		text_length[p] = string_length(texto[p]);
 		
 		text_x_offset[p] = 44;
 		
@@ -30,7 +38,7 @@ if setup!=true
 if draw_char < text_length[page]
 {
 	draw_char += text_spd;
-	draw_char = clamp(draw_char,0,text_length[page]);
+	//draw_char = clamp(draw_char,0,text_length[page]);
 }
 
 //flip through pages
@@ -45,7 +53,15 @@ if accept_key
 			page++;
 			draw_char = 0;
 		}else{
+			global.player_control = true;
 			instance_destroy();
+			global.page_num=0;
+			if(room==room_metro){
+				room_goto(IBC_1);
+			}
+			if(room==IBC_aula_mayor){
+				room_goto(room_preguntas);
+			}
 		}
 //if not done typing
 }else{
@@ -63,5 +79,5 @@ txtb_spr_h= sprite_get_height(txtb_spr);
 draw_sprite_ext(txtb_spr,txtb_img,textbox_x + text_x_offset[page],textbox_y,textbox_width/txtb_spr_w, textbox_height/txtb_spr_h,0,c_white,1);
 
 //draw the text
-var _drawtext = string_copy(text[page],1,draw_char);
+var _drawtext = string_copy(texto[page],1,draw_char);
 draw_text_ext(textbox_x + text_x_offset[page]+border,textbox_y + border,_drawtext,line_sep,line_width);

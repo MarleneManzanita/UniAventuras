@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Street",
-    "path":"folders/Sprites/Street.yy",
+    "name":"street_decorations",
+    "path":"folders/Sprites/Street/street_decorations.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

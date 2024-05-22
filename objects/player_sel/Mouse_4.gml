@@ -3,5 +3,5 @@
 
 	global.select=ID;
 	image_index = 1;
-	room_goto(str_room_1);
+	room_goto(room_metro);
 
