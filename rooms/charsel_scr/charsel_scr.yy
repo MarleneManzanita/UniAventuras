@@ -891,8 +891,8 @@
   ],
   "name":"charsel_scr",
   "parent":{
-    "name":"Salas",
-    "path":"folders/Salas.yy",
+    "name":"salas ui",
+    "path":"folders/Salas/salas ui.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

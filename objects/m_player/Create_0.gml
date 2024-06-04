@@ -5,7 +5,6 @@ yspd = 0;
 nearby_npc= noone;
 look_range=50;
 global.player_control=true;
-global.texto=scr_texto_inicio();
 
 movespd = 2;
 

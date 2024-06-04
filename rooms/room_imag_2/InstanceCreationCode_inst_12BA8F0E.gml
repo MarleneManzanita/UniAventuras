@@ -1,1 +1,0 @@
-str_text_img2();

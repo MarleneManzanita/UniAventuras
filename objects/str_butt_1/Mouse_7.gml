@@ -3,7 +3,7 @@
 
 switch(texto){
 	case "Inicio":
-		room_goto(charsel_scr);
+		room_goto(room_metro);
 	break;
 	case "Opciones":
 	

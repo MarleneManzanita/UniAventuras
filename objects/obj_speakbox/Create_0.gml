@@ -1,4 +1,5 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 
-global.page_num=0;
+//Load your file.
+ChatterboxLoadFromFile("texto1.yarn"); //or whatever you called yours

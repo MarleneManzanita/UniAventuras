@@ -1,1 +1,0 @@
-scr_texto_juanita();

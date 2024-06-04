@@ -11,7 +11,6 @@
     {"name":"inst_799D96B1","path":"rooms/title_scr/title_scr.yy",},
     {"name":"inst_5247EEE4","path":"rooms/title_scr/title_scr.yy",},
     {"name":"control","path":"rooms/title_scr/title_scr.yy",},
-    {"name":"inst_4241ACA9","path":"rooms/title_scr/title_scr.yy",},
     {"name":"inst_4520D19A","path":"rooms/title_scr/title_scr.yy",},
   ],
   "isDnd":false,
@@ -22,8 +21,7 @@
         {"$GMRInstance":"","%Name":"inst_799D96B1","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_799D96B1","objectId":{"name":"str_butt_1","path":"objects/str_butt_1/str_butt_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.84375,"scaleY":3.3125,"x":1758.0,"y":75.0,},
         {"$GMRInstance":"","%Name":"inst_5247EEE4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5247EEE4","objectId":{"name":"title_game","path":"objects/title_game/title_game.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2703291,"scaleY":1.523316,"x":309.5915,"y":295.0,},
         {"$GMRInstance":"","%Name":"control","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"control","objectId":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":0.0,"y":0.0,},
-        {"$GMRInstance":"","%Name":"inst_4241ACA9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4241ACA9","objectId":{"name":"obj_speakbox","path":"objects/obj_speakbox/obj_speakbox.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":64.0,},
-        {"$GMRInstance":"","%Name":"inst_4520D19A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4520D19A","objectId":{"name":"obj_data_carrier","path":"objects/obj_data_carrier/obj_data_carrier.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":0.0,},
+        {"$GMRInstance":"","%Name":"inst_4520D19A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4520D19A","objectId":{"name":"obj_data_carrier","path":"objects/obj_data_carrier/obj_data_carrier.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":64.0,"y":0.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_4","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_4","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":68,"SerialiseWidth":120,"TileCompressedData":[
           -6480,-2147483648,15,268435470,268435469,268435468,268435467,268435466,268435465,268435464,268435463,
@@ -899,8 +897,8 @@
   ],
   "name":"title_scr",
   "parent":{
-    "name":"Salas",
-    "path":"folders/Salas.yy",
+    "name":"salas ui",
+    "path":"folders/Salas/salas ui.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
