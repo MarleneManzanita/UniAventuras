@@ -6,6 +6,8 @@
   "name":"npc_juanita",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"NPC","path":"objects/NPC/NPC.yy",},"propertyId":{"name":"following","path":"objects/NPC/NPC.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"False",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"NPC","path":"objects/NPC/NPC.yy",},"propertyId":{"name":"nivel","path":"objects/NPC/NPC.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"NPC","path":"objects/NPC/NPC.yy",},"propertyId":{"name":"char_id","path":"objects/NPC/NPC.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"\"",},
   ],
   "parent":{
     "name":"Character_obj",

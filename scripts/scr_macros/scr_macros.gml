@@ -6,3 +6,11 @@
 #macro DOWN 3
 
 global.select=0;
+
+global.pregunta=false;
+global.current=0;
+
+global.correct = [0,0,0,0];
+global.clase=false;
+global.charla=true;
+global.integ=false;

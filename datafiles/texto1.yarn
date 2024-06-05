@@ -1,6 +1,6 @@
 #__PrivCrochet_version:1
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -1406,-178
+__PrivCrochet_position: -10060,-1274
 __PrivCrochet_tags: 
 title: Start
 ---
@@ -12,7 +12,7 @@ Me pregunto cuántas de las personas que están en este metro serán de mi carre
 ¡Cierto! El correo decía que debía bajarme en Francia.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -1389,75
+__PrivCrochet_position: -10043,-1022
 __PrivCrochet_tags: 
 title: Emily1
 ---
@@ -31,7 +31,7 @@ Yo: Gracias...Creo que ya me voy
 Chica desconocida: Ok, que te vaya bien en tu primer día
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -1414,336
+__PrivCrochet_position: -10070,-765
 __PrivCrochet_tags: 
 title: Rodrigo1
 ---
@@ -39,11 +39,11 @@ title: Rodrigo1
 Yo: . . .
 Miras al extraño con desconfianza
 ???: Lo siento, no quería asustarte. Me llamo Rodrigo y soy miembro del staff de bienvenida
-Rodrigo: Por parte de la PUCV te doy la bienvenida a la escuela de informática. Puedes pasar adentro para recibir tu kit de bienvenida y luego ir a la ceremonia de bienvenida".
+Rodrigo: Por parte de la PUCV te doy la bienvenida a la escuela de informática. Puedes pasar adentro para recibir tu kit de bienvenida y luego ir a la ceremonia de bienvenida en el Aula Mayor, ubicada en el subterraneo.".
 Yo: Muchas gracias
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -941,62
+__PrivCrochet_position: -9493,-1238
 __PrivCrochet_tags: 
 title: Pregunta1
 ---
@@ -53,25 +53,792 @@ title: Pregunta1
 -> Ingeniería buen corazón
     Incorrecto
 -> Intermediate Bulk Container
+    Incorrecto
+
+<<jump Pregunta2>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -1422,-444
+__PrivCrochet_position: -10076,-1541
 __PrivCrochet_tags: 
 title: valla
 ---
 Esta valla me impide el paso.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -1658,-444
+__PrivCrochet_position: -7669,-1530
 __PrivCrochet_tags: 
 title: puertacerr
 ---
-Esta puerta está cerrada
+Está cerrado.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -1177,-438
+__PrivCrochet_position: -9831,-1535
 __PrivCrochet_tags: 
 title: closed
 ---
 No puedo pasar por aquí
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10060,-515
+__PrivCrochet_tags: 
+title: Ramiro1
+---
+Prof. Ramiro: Buenos días a todos los presentes y bienvenidos a la escuela de Ingeniería Informática de la PUCV.
+Prof. Ramiro: Es un honor recibirlos en su primer día de clases en su nueva alma mater que los acompañará por los siguientes años. 
+Prof. Ramiro: La escuela tiene una larga historia, que nos remonta al 2 de Febrero de 1972 cuando se promulgó la creación del Centro de Ciencias de Computación....
+<<jump MCsueño>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10060,213
+__PrivCrochet_tags: 
+title: Nicanor1
+---
+Nicanor: ¡Oh! ¡Hola! ¿como estás? Soy Nicanor, el presidente del centro de estudiantes, estoy aquí para ayudarte si necesitas algo. Aquí tenemos un computador, e impresora por si necesitas imprimir. 
+Nicanor: También contamos con agua, café, té, artículos femeninos, medicamentos varios, entre algunas cosas más. Debes considerar que no estamos todo el día, ya que en el centro de estudiantes sólo somos 3, el presidente, secretario y vice presidente. 
+Nicanor: Pero cuando estamos, te ayudaremos en lo que podamos.
+<<jump Mccee2>>
+===
+__PrivCrochet_colorID: 8
+__PrivCrochet_position: -9801,-514
+__PrivCrochet_tags: 
+title: MCsueño
+---
+Sientes los ojos pesados cuando habla el director, anoche te ha costado dormir por la emoción del primer día...
+Duermes y empiezas a soñar con tu primer día, y alguien con aspecto similar se muestra frente tuyo...?
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9818,-754
+__PrivCrochet_tags: 
+title: Rodrigo2
+---
+Rodrigo:¡Oye! deberías estar prestando atención.
+Rodrigo: Es de suma importancia que sepas sobre nuestra escuela.
+***Las siguientes preguntas son un tutorial para aprender el sistema de preguntas de este juego***
+***Se harán preguntas sobre cosas que hayan dicho los personajes sobre la experiencia PUCV***
+***Para responder, debes presionar el número de alternativa que quieras contestar. Necesitas tener la mayoría de correctas para poder ganar*
+===
+__PrivCrochet_colorID: 8
+__PrivCrochet_position: -9118,-1229
+__PrivCrochet_tags: 
+title: Pregunta2
+---
+¿Como se llama la sala donde está siendo realizada la charla?
+-> Aula Mayor
+  Correcto!
+-> Aula Magna
+  Incorrecto!
+-> Aula Menor
+  Incorrecto!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10044,-290
+__PrivCrochet_tags: 
+title: MCwake
+---
+Te despiertas de tu sueño y te percatas que la charla ya ha acabado.
+Recuerdas que en el correo decía que hoy tenías tu primera clase de introducción, por lo que sales del aula para ir a tu clase la cual indica ser en la sala "IBC 2-4".
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10056,-39
+__PrivCrochet_tags: 
+title: Magdalena1
+---
+Yo: Hola, disculpa...
+Chica desconocida: ¿Me hablas a mi...?
+Yo: Si, Quería saber si de casualidad sabes dónde está la sala 2-4
+Chica desconocida:Ah si..., la sala que buscas es en el segundo piso, fíjate en los carteles que tiene cada sala. Yo no soy buena dando indicaciones, solo llevo 5 años en la universidad.
+Yo: ...Gracias?
+Chica desconocida:Que te vaya bien...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9790,-285
+__PrivCrochet_tags: 
+title: MCcamino
+---
+No se realmente donde es la sala, saliendo del aula ves a una chica que parece ser de año superior, probablemente ella sepa donde es. Le preguntaré.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9583,-1542
+__PrivCrochet_tags: 
+title: noes
+---
+Esta no es la sala que busco...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8762,-1779
+__PrivCrochet_tags: 
+title: sies_2-4
+---
+Esta es la sala que busco! entra para iniciar la clase...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9088,-1545
+__PrivCrochet_tags: 
+title: sala2-1
+---
+El cartel dice sala "2-1"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7907,-1531
+__PrivCrochet_tags: 
+title: sala 2-2
+---
+El cartel dice sala "2-2"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8841,-1547
+__PrivCrochet_tags: 
+title: sala2-4
+---
+El cartel dice sala "2-4"
+<<jump sies_2-4>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8593,-1543
+__PrivCrochet_tags: 
+title: sala2-5
+---
+El cartel dice sala "2-5"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8147,-1529
+__PrivCrochet_tags: 
+title: salaestudiantes
+---
+El cartel dice "Centro de estudiantes"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8366,-1534
+__PrivCrochet_tags: 
+title: sala2-6
+---
+El cartel dice sala "2-6"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9137,-628
+__PrivCrochet_tags: 
+title: MCcertificado
+---
+Iba a buscar algo para comer cuando de repente suena mi celular.
+Lo saco para ver quién es...Es mi mamá.
+Me pregunta cómo estoy y me dice que está muy feliz de que haya entrado a la universidad.
+Me cuenta que en el trabajo le van a dar un bono por estar yo estudiando, y me dijo que debo sacar un certificado de alumno regular para que se lo den...¿cómo se hace eso? no tengo ni la menor idea. 
+Nos aconsejaron que por este tipo de cosas hay que ir al "centro de estudiantes", buscaré la sala...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10333,211
+__PrivCrochet_tags: 
+title: MCcee1
+---
+Entras al centro de estudiantes y ves a un chico sentado, se ve algo viejo...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9777,224
+__PrivCrochet_tags: 
+title: Mccee2
+---
+Yo: ¡Muchas gracias! necesito sacar un certificado de alumno regular, pero no sé cómo... ¿podrías ayudarme?
+<<jump Nicanor2>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9446,222
+__PrivCrochet_tags: 
+title: Nicanor2
+---
+Nicanor: ¡Claro! debes ingresar a tu aula virtual en "www.nave13.ucv.cl", en la parte de la izquierda encontrarás varias secciones, aquí debes buscar la sección "Situación administrativa"
+Nicanor: Dentro de esto busca la subsección "Certificados". Aquí, debes marcar la opción "Alumno Matriculado en Período Actual", luego, te dejará seleccionar el subtipo, lo cual significa para que fin necesitas este certificado, puedes incluir tu año de ingreso y a que contacto de mail debe ser enviado.
+Nicanor: Queda a tu desición si deseas agregar un comentario extra. Finalmente, al presionar siguiente podrás visualizar el certificado para posteriormente descargarlo.
+Nicanor:¡Espero haberte ayudado!
+<<jump MCcee3>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9162,226
+__PrivCrochet_tags: 
+title: MCcee3
+---
+¡Gracias a ti! lo haré como lo has indicado.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10077,1677
+__PrivCrochet_tags: 
+title: MCclase1
+---
+Inicia una nueva semana, con una clase del profesor William.
+Entras a tu primera clase de contenido, un poco asustado. Ves al profesor, su nombre es William, él es quien hace clases de programación a los alumnos de primer año, has escuchado que es alguien a quien se le debe respeto.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10081,1975
+__PrivCrochet_tags: 
+title: William1
+---
+Buenos días alumnos, espero que estén muy bien. Mi nombre es William, y soy seré su profesor este semestre. Yo se que hay gente que no le agrado, pero si es que prestan atención y vienen a clases, se que llegaré a agradarles. Para hoy, veremos la planificación del curso...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9831,1676
+__PrivCrochet_tags: 
+title: MCclase2
+---
+El profesor inicia su clase.
+Ves sentado a tu lado un alumno, parece mayor que tu, ves que está prestando atención. El te queda mirando.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10086,2227
+__PrivCrochet_tags: 
+title: Felipe1
+---
+Hola, soy Felipe. Ya se que estás pensando, que estoy un poco viejo para esto. He dado este curso 3 veces, esta es mi última oportunidad... pero no quiero rendirme, ya que amo mi carrera.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9840,1970
+__PrivCrochet_tags: 
+title: William2
+---
+¡Ey! ¡Ustedes! tanto que hablan, mejor pasen adelante y hacen la clase. 
+¿Si, ah? eso pensé. Silencio. 
+Como decía, para la siguiente clase tendremos un control en parejas, las preguntas las he sacado de un libro que podrán encontrar en la biblioteca, el cúal solo posee una copia aquí en la biblioteca de la facultad de ingeniería de la PUCV. Les aseguro que este libro no está en internet, si yo fuera ustedes, iría a pedirlo ahora ya. 
+Eso es todo por hoy, nos vemos.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8397,-15
+__PrivCrochet_tags: 
+title: Hugo1
+---
+Estudiante 3: ¡Ugh! no me sorprende que te haya sucedido esto, ¿acaso no sabes lo que te puede suceder cuando eres soprendido copiando en una evaluación?
+Estudiante 3:Yo te lo diré en simples palabras, estas son las cosas que pueden aplicar a la violación de la integridad academica, esto todo dependerá de la gravedad, y contexto del caso. Cada caso lo revisa la universidad y evalúan su gravedad. 
+Las opciones son:
+a) Amonestación oral registrada en el expediente académico del o de los alumnos.
+b) Amonestación escrita.
+c) Matrícula condicional.
+d) Suspensión temporal de toda actividad universitaria, desde 10 hasta 30 días corridos.
+Estudiante 3: Así que si yo fuera tú, estaría preocupado, tu historial estará manchado por siempre.
+Estudiante 3: Bueno, ya me voy.
+<<jump MCpasillo3>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9572,-5
+__PrivCrochet_tags: 
+title: MCpasillo1
+---
+Al salir de la clase de introducción, ves a un alumno fuera de la sala llorando, él está con su amigo, quien al parecer lo está consolando.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9336,-9
+__PrivCrochet_tags: 
+title: Gabriel1
+---
+Estudiante 1: ¡Pensé que no sucedería nada! literalmente el semestre pasado, cuando sucedió, me dijieron que estuviera tranquilo, en cambio ahora, me han dicho que tendré una sanción. ¿Que debería hacer?
+<<jump Tobias1>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8985,-6
+__PrivCrochet_tags: 
+title: Tobias1
+---
+Estudiante 2: No lo sé, yo he escuchado que cuando copias en un examen, te expulsan o te llevan a la cárcel. Te extrañaré, pero bueno, a ti se te ocurrió.<<jump MCpasillo2>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10042,3979
+__PrivCrochet_tags: 
+title: Felipe4
+---
+Hola Tía Zafiro, ¿como está? veníamos a buscar un control que dejó el ayudante Leopoldo, aquí estoy con mi compañero mechón.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9607,3501
+__PrivCrochet_tags: 
+title: MCsecre1
+---
+Subimos a secretaría y es un piso bastante lindo con vista al mar. Se puede ir a la izquierda o derecha, Felipe me indica que la secretaría está a la derecha. Nos dirigimos hacia allá.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10042,3500
+__PrivCrochet_tags: 
+title: MCpensamiento
+---
+Una nueva semana... Hoy empiezan las ayudantías de programación, con un conocido ayudante llamado Leopoldo. Él es un ayudante con bastante experiencia, pero no es cercano a los alumnos. Igualmente, es alguien agradable por lo que dice el resto. Ya debería entrar a clases.
+Hoy tengo clases en la sala S 1-3 Debo encontrarla....
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10037,3281
+__PrivCrochet_tags: 
+title: sies_S1-3
+---
+Esta es la sala que busco!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10090,2472
+__PrivCrochet_tags: 
+title: Bibliotecaria1
+---
+Hola alumnos, ¿desean un libro? mm... hay distintos tipos de préstamos, para todos ellos necesito su carnet de identidad o pase escolar, en primera instancia, ¿correcto?
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9828,3501
+__PrivCrochet_tags: 
+title: MCsala1
+---
+La clase pasa rápidamente. Pero me ha quedado la duda donde es secretaría de docencia. Le pregunto a Felipe y él me dice que es en el tercer piso. La clase termina, subiremos a buscar nuestro control.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8347,-1215
+__PrivCrochet_tags: 
+title: Pregunta5
+---
+¿Qué pasa si eres sorprendido copiando en una prueba? : a)Amonestación oral registrada en el expediente académico del o de los alumnos.| b) Amonestación escrita.|c) Matrícula condicional. |d)Suspensión total.
+-> a) y c)
+  Incorrecto!
+-> a),b) y c)
+  Correcto!
+-> Todas las anteriores.
+  Incorrecto!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8581,-1215
+__PrivCrochet_tags: 
+title: Pregunta4
+---
+¿Cómo sacar certificados de la universidad? 
+-> Via Aula Virtual, en la sección de solicitudes académicas.
+   Incorrecto!
+-> Via Aula Virtual, en la sección de situación administrativa.
+   Correcto!
+-> En secretaría de docencia, tercer piso IBC. 
+   Incorrecto!
+<<jump Pregunta5>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9842,2231
+__PrivCrochet_tags: 
+title: Felipe2
+---
+¡Oye! ¿Que te parece que seamos juntos en el control? ya he dado un par de veces el ramo, por lo cual tengo ventaja, ¿no crees? aparte, sé dónde está la biblioteca, te puedo llevar ahora mismo a buscar ese libro, ¿que te parece?
+->Ok
+->...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9601,2238
+__PrivCrochet_tags: 
+title: Felipe3
+---
+¡Genial! no te defraudaré. Vamos, la biblioteca está en el edificio FIN, estas siglas significan facultad de ingeniería.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8097,-11
+__PrivCrochet_tags: 
+title: MCpasillo3
+---
+El chico quien lloraba, se le ve aún más afectado despúes de lo sucedido, ya veo que la integridad académica es algo bastante serio...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8690,-13
+__PrivCrochet_tags: 
+title: MCpasillo2
+---
+De la nada, mientras ellos hablan, aparece otro alumno de la nada, e interrumpe su conversación.
+<<jump Hugo1>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9602,1675
+__PrivCrochet_tags: 
+title: MCbiblio1
+---
+Entras a la biblioteca, es muy bella. Felipe te indica que hay qu hablar con las bibliotecarias, ellas pueden ayudarte.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8820,-1223
+__PrivCrochet_tags: 
+title: Pregunta3
+---
+¿Dónde se encuentran las salas de CEE? 
+-> Segundo piso, a la derecha hacia el fondo.
+   Correcto!
+-> Segundo piso, a la izquierda. 
+   Incorrecto.
+-> Primer piso, a la derecha hacia el fondo.
+   Incorrecto.
+
+<<jump Pregunta4>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8902,-920
+__PrivCrochet_tags: 
+title: Juanita0
+---
+Juanita: Hola, ¿necesitas algo?
+Yo: Sí, mencionaron algo sobre un concurso o algo...No sé muy bien qué era eso
+Juanita: Ah si, la búsqueda del tesoro! ¿No lo explicaron en la charla?
+Yo: Sí...Creo que no me quedó muy claro
+Juanita: No hay problema, te explico. Durante la semana nosotro los del staff iremos haciendo preguntas tipo trivia sobre temas de la universidad.
+Juanita: Si logras responder a la mayoría correctamente, obtendrás una pista de cómo encontrar el tesoro que escondió el CEE.
+Juanita: ¡Mientras más pistas tengas, más fácil será encontrar el tesoro!
+Yo: ¿Y qué es este "tesoro"?
+Juanita: ¡Es un secreto! Pero si te preguntas cuál es el premio al ganador, es una gamestation 6. Hasta yo estoy emocionada por ver quién ganará
+Juanita: Cuando quieras intentar la trivia de esta semana, vuelve a hablar conmigo.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10042,4197
+__PrivCrochet_tags: 
+title: Zafiro1
+---
+Hola Felipe! les entregaré sus controles. Ya veo, ¿mechón? muchas experiencias nuevas. Ser joven es sin duda un regalo. Aquí en secretaría de docencia, puedes consultar diversas informaciones. Como incribir y desinscribir ramos, consultas sobre los horarios de la escuela, infomar si un profesor no asiste a clases. Hay bastantes otras cosas que pueden ser hechas.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10038,4422
+__PrivCrochet_tags: 
+title: Pauline1
+---
+También aquí debes inscribir tu práctica profesional, pero aún falta bastante para eso, haha!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10044,3762
+__PrivCrochet_tags: 
+title: Leopoldo1
+---
+Buen día alumnos, soy Leopoldo, pueden llamarme Leo... seré su ayudante este semestre, si estudian y le ponen de su esfuerzo, lograrán pasar este ramo. Les cuento que ya corregí sus controles en pareja, estos están disponibles en secretaría de docencia.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9589,3276
+__PrivCrochet_tags: 
+title: sala_S1-2
+---
+El cartel dice sala "1-2"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9595,3970
+__PrivCrochet_tags: 
+title: Felipe6
+---
+Hay que ir a buscar al profe Marcelo, debe estar por aquí su oficina.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9820,4200
+__PrivCrochet_tags: 
+title: Zafiro2
+---
+Pauline tiene razón! ella también es secretaria, y ve los temas de práctica. Bueno, sobre los controles, al parecer Leopoldo no lo ha dejado aún aquí, pero por lo último que me dijo fue que estaría con el profesor Chester, y si no está con él, debiera haber ido a ver al profesor Marcelo.
+Deben ir y buscar la sala de los profesores, que les vaya bien!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9825,3974
+__PrivCrochet_tags: 
+title: Felipe5
+---
+El profesor Chester tiene aquí al lado su oficina, vamos!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7431,-1533
+__PrivCrochet_tags: 
+title: sala2-11
+---
+El cartel dice sala "2-11"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9815,3280
+__PrivCrochet_tags: 
+title: sala_S1-1
+---
+El cartel dice sala "S 1-1"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8413,1668
+__PrivCrochet_tags: 
+title: Pregunta8
+---
+¿Que tipo de sanción existe al no hacer devolución de un libro?
+
+-> Sanción monetaria.
+  Incorrecto!
+-> Bloqueo de préstamos.
+  Incorrecto!
+-> Sanción monetaria y Bloqueo de préstamos.
+  Correcto!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10039,4640
+__PrivCrochet_tags: 
+title: Chester1
+---
+Hola alumnos, ¿buscan a Leopoldo? justo se ha ido... pero me ha dicho que tiene que ir a una junta con el profesor Marcelo, debían ver algo sobre un ramo, por lo cual estarán ocupados por unos 10 minutos. ¿Están en el primer curso de programación no? aprender a programar es algo maravilloso. Pero deben tener cuídado y estudiar mucho... en primer año, se tienen 4 ramos. Todos tienen su debida importancia, ya cada uno les introduce un trozo de la carrera. Es por esta razón que por si no lo sabían, al reprobar todas las asignaturas, son expulsados de la carrera. Por lo cual deben prestarle igual atención a todos los ramos por igual, todos son importantes.
+Espero haberles aportado en algo. Que les vaya bien!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10040,4873
+__PrivCrochet_tags: 
+title: Marcelo1
+---
+Hola alumnos. Buenas tardes, se que buscan a Leopoldo, pero acaba de irse, debe estar por las escaleras, aún pueden alcanzarlo. Si me necesitan nuevamente, la gran mayoría del tiempo estoy aquí en mi oficina. Pueden consultar con las secretarias mi horario, recuerden que también pueden estar en comunicación con los profesores mediante mensajes de aula virtual o correo institucional. Eso por mi parte. ¡Que les vaya bien!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9382,3503
+__PrivCrochet_tags: 
+title: MCsecre2
+---
+El profesor Marcelo es bastante serio, pero muy amable. Debemos ir a buscar a Leopoldo!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8769,3275
+__PrivCrochet_tags: 
+title: Pregunta9
+---
+¿Cual de estas opciones NO es parte de las consultas posibles en secretaría de docencia?
+-> Consulta de horarios
+   Incorrecto!
+-> Inscripción de ramos
+   Incorrecto!
+-> Consulta de pagos de arancel
+   Correcto!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9822,3757
+__PrivCrochet_tags: 
+title: Leopoldo2
+---
+¿Me estaban buscando? Ah, si... sus controles. Deben ponerse las pilas, ya que no están muy buenos. No olviden que reprobación de todos los ramos es expulsión. Bueno, se sacaron un 4. Estudien, ya que este ramo no es bajo en créditos. Por lo cual deben estudiar. Bueno, ya me voy. Frecuento siempre este piso ya que suelo estar con los profesores. Si necesitan hablar conmigo, pueden enviarme un mail, el cual está en el aula virtual de la asignatura. Nos vemos.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9382,1677
+__PrivCrochet_tags: 
+title: MCbiblio2
+---
+Si! estamos con nuestros documentos. Necesitamos arrendar el libro "Introducción a Algoritmos para monos"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9848,2470
+__PrivCrochet_tags: 
+title: Bibliotecaria2
+---
+OK! hay dos opciones, solicitar el préstamo de un libro, acercandote al mesón de la biblioteca con tu carnet o pase escolar como lo has hecho ahora, o reservarlo en línea y luego retirarlo 1 hora antes del cierre de la biblioteca. 
+ Luego ingresar los datos de tu cuenta en Bibliotecas PUCV, RUT y contraseña. Si no conoces tu contraseña o la olvidaste, selecciona una de las opciones que se despliegan abajo en el mismo catálogo . Puedes solicitar la constraseña también en "www.biblioteca.pucv.cl" y recibirás la contraseña en tu correo institucional (@pucv.cl o @mail.pucv.cl).
+ Para finalizar la reserva, debes seleccionar la fecha en la cual deseas retirar el libro en la biblioteca indicada, de lo contrario, por defecto, se registrará para el mismo día ("hoy"), y seleccionar un ejemplar dentro del listado. Es importante que revises la biblioteca donde se encuentra el libro, y solo tú podrás retirarlo.
+Para renovar, puedes realizarlo a partir de 24 horas antes del día y hora de la fecha de devolución.
+Pero no se permitirá la renovación si el libro pertenece a la colección de Alta Demanda.
+Podrás renovar el préstamo de un libro hasta un máximo de 2 veces.
+El sistema no permitirá la renovación si el libro está previamente reservado por otro usuario, por lo que está sujeto a su disponibilidad.
+Para devolver el libro, Puedes devolver el libro de manera PRESENCIAL en la Biblioteca de tu sede en el horario de atención.
+La devolución fuera de plazo de un libro genera dos sanciones, una multa por día de atraso y suspensión de servicio de préstamo a domicilio por 48 horas por cada dia de atraso. La multa por día de retraso en la entrega de un libro de baja demanda es de $300, y por libros de alta demanda es de $600.
+
+Aquí está el libro que me pidieron. 
+
+No está de más comentarles sobre los préstamos de cubículos de la Biblioteca. Estos corresponden a espacios reservados para el trabajo y estudio colaborativo para alumnos de pregrado, postgrado, estudiantes en trabajo de finalización de título o grado y profesores.
+Los cubículos se encuentran equipados con pizarrasco y conexión wi-fi. Su capacidad fluctúa entre 3 a 6 personas y pueden utilizarlos en cualquier biblioteca que cuente con estos espacios.
+Puedes reservarlo online en "www.biblioteca.pucv.cl", o presencial como están ahora. La reserva es para un mínimo de 3 personas (deberás ingresar los 3 ruts, tuyo y de las personas que te acompañan, para hacer una reserva).
+
+Espero la información haya sido útil. Que les vaya bien!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9376,2237
+__PrivCrochet_tags: 
+title: Felipe4.
+---
+Wow, tuvimos suerte en obtener este libro. El año pasado no alcancé a pedirlo y me eché el ramo, aunque igual influyó que este tuviera 4 créditos. ¿No sabes lo que son los créditos? Bah, yo ya llevo un tiempo por acá, te explico. El crédito PUCV es la unidad de medida de carga académica del alumno. Un crédito PUCV es el equivalente a cuatro 4 horas semanales de trabajo académico semestral. La hora PUCV de trabajo académico comprende una duración de 35 minutos. La asignación del número de créditos de cada asignatura deberá considerar el tiempo de docencia directa, teniendo en cuenta los distintos componentes de cada asignatura y el tiempo de trabajo por cuenta propia de uno. En breves palabras, mientras más créditos tiene una asignatura, es más difícil. Por lo cual jamás dejes esta asignatura para última hora, yo no me aprendí de memoria esta información por que me ha ido bien, pero se que tu lo harás mejor que yo.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10092,2728
+__PrivCrochet_tags: 
+title: Juanita2
+---
+Hola! aquí puedes responder tus preguntas de la semana 2, ¿estás listo?
+-> Si!
+Genial.
+-> Aún no.
+Vuelve cuando estés listo.
+-> ...
+Vuelve cuando estés listo.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8866,1669
+__PrivCrochet_tags: 
+title: Pregunta6
+---
+¿Como se puede solicitar un préstamo en la biblioteca? 
+-> Por la página de la biblioteca.
+   Incorrecto!
+-> Por la página de la bibliotec y presencial.
+   Correcto!
+-> Por el correo institucional y presencial.
+   Incorrecto!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8639,1675
+__PrivCrochet_tags: 
+title: Pregunta7
+---
+¿Para que la asignación numérica de los créditos universitarios?
+-> Para medir tu avance acádemico
+  Incorrecto!
+-> Para saber en que semestre vas 
+   Incorrecto!
+-> Para medir el esfuerzo necesario en horas educativas
+  Correcto!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8552,3278
+__PrivCrochet_tags: 
+title: Pregunta10
+---
+¿Cual de estos métodos de contacto académico puede utilizarse para la comunicación con profesores aparte de correo?
+-> Vía contacto telefónico.
+  Incorrecto!
+-> Vía mensaje en aula virtual. 
+  Correcto!
+-> Vía redes sociales de la escuela de informática PUCV.
+  Incorrecto!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8320,3275
+__PrivCrochet_tags: 
+title: Pregunta11
+---
+¿Cual es la consecuencia de reprobar todas las asignaturas en primer semestre?
+-> Expulsión permanente de la escuela.
+  Correcto!
+-> Sanción académica.
+  Incorrecto!
+-> Expulsión temporal de 10 a 30 días.
+  Incorrecto!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -5027,-702
+__PrivCrochet_tags: 
+title: Node
+---
+Empty Text
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -5027,-702
+__PrivCrochet_tags: 
+title: Node_2
+---
+Empty Text
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -5027,-702
+__PrivCrochet_tags: 
+title: Node_3
+---
+Empty Text
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -3796,-618
+__PrivCrochet_tags: 
+title: Node_4
+---
+Empty Text
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7933,-1196
+__PrivCrochet_tags: 
+title: notalk
+---
+No tengo nada que decirle...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9296,-2289
+__PrivCrochet_tags: 
+title: mal
+---
+Creo que no me fue muy bien en esta ronda. Tendré que estudiar más a la próxima
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9007,-2289
+__PrivCrochet_tags: 
+title: maso
+---
+Pude contestar una que otra bien. Si me esfuerzo podré hacerlo mejor
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8760,-2289
+__PrivCrochet_tags: 
+title: bien
+---
+Lo hice bastante bien. Tuve casi todas correctas
+Obtuve una pieza de pista!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8508,-2289
+__PrivCrochet_tags: 
+title: perfecto
+---
+Maravilloso! Contesté todo correctamente
+Obtuve una pieza de pista!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9261,-1989
+__PrivCrochet_tags: 
+title: fin
+---
+Felicidades! Has terminado este nivel
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9002,-1992
+__PrivCrochet_tags: 
+title: fin2
+---
+Has terminado el juego! Muchas gracias por jugar.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8181,-1789
+__PrivCrochet_tags: 
+title: salaestudiantescdd
+---
+El cartel dice "Centro de estudiantes Ciencia de datos"
+Está cerrado...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8498,-1784
+__PrivCrochet_tags: 
+title: lab
+---
+El cartel dice "Laboratorios de informática Cerrados por actividades"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9803,-13
+__PrivCrochet_tags: 
+title: MCclase
+---
+Entro a la sala y se ve inmensa. "Caben como 100 personas aquí" piensas.
+Miro alrededor y todos mis compañeros están hablando entusiasmados. Dicen algo sobre una "gamestation 6" y una competencia.
+Creo que voy a investigarlo después. Vi a alguien del staff hace un rato en el primer piso, podría preguntarle.
+La clase transcurre de manera normal. El profesor William se presenta y dice cómo va a ser su asigntaura.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8571,-918
+__PrivCrochet_tags: 
+title: Juanita1
+---
+Hola! aquí puedes responder tus preguntas de la semana 1, ¿estás listo?
+-> Si!
+    Genial.
+-> Aún no.
+    Vuelve cuando estés listo.
+-> ...
+    Vuelve cuando estés listo.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: undefined,undefined
+__PrivCrochet_tags: 
+title: Node_5
+---
+Empty Text
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: undefined,undefined
+__PrivCrochet_tags: 
+title: Node_6
+---
+Empty Text
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: undefined,undefined
+__PrivCrochet_tags: 
+title: Node_7
+---
+Empty Text
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: undefined,undefined
+__PrivCrochet_tags: 
+title: Node_8
+---
+Empty Text
 ===

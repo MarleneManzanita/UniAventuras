@@ -1,0 +1,1 @@
+scr_create_text("Rodrigo2","texto1.yarn");

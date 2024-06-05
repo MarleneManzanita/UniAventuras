@@ -1,7 +1,7 @@
 {
   "$GMRoom":"",
   "%Name":"IBC_aula_mayor",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/IBC_aula_mayor/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

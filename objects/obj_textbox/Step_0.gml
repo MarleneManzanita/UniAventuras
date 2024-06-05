@@ -19,6 +19,10 @@ if ChatterboxIsWaiting(chatterbox){
 	    ChatterboxSelect(chatterbox, _select);
 	    text        = ChatterboxGetContent(chatterbox,0);
 	    nodeTitle   = ChatterboxGetCurrent(chatterbox);  
+		
+			if(nodeTitle=="Juanita1"&&text=="Si!"){
+				room_goto(room_preguntas);
+			}
 	    } 
 	   }
 }
