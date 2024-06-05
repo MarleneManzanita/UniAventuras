@@ -5,7 +5,7 @@
   "managed":true,
   "name":"npc_juanita",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"NPC","path":"objects/NPC/NPC.yy",},"propertyId":{"name":"following","path":"objects/NPC/NPC.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"True",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"NPC","path":"objects/NPC/NPC.yy",},"propertyId":{"name":"following","path":"objects/NPC/NPC.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"False",},
   ],
   "parent":{
     "name":"Character_obj",
