@@ -1,6 +1,6 @@
 #__PrivCrochet_version:1
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -1404,-176
+__PrivCrochet_position: -1406,-178
 __PrivCrochet_tags: 
 title: Start
 ---
@@ -53,4 +53,25 @@ title: Pregunta1
 -> Ingeniería buen corazón
     Incorrecto
 -> Intermediate Bulk Container
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -1422,-444
+__PrivCrochet_tags: 
+title: valla
+---
+Esta valla me impide el paso.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -1658,-444
+__PrivCrochet_tags: 
+title: puertacerr
+---
+Esta puerta está cerrada
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -1177,-438
+__PrivCrochet_tags: 
+title: closed
+---
+No puedo pasar por aquí
 ===

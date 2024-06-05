@@ -14,3 +14,11 @@ sprite[LEFT]=spr_m_player_l;
 sprite[DOWN]=spr_m_player_d;
 
 face=DOWN;
+
+array_size=20;
+
+for(var i= array_size-1; i>=0; i--){
+	pos_x[i]=x;
+	pos_y[i]=y;
+	
+}

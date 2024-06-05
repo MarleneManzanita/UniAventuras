@@ -44,3 +44,13 @@ nearby_npc = collision_rectangle(x-look_range,y-look_range,x+look_range,y+look_r
 
 //depth
 depth= -bbox_bottom
+
+if(x != xprevious || y!= yprevious){
+	for(var i= array_size-1; i>=1; i--){
+	pos_x[i]= pos_x[i-1];
+	pos_y[i]=pos_y[i-1];
+	}
+	
+	pos_x[0]= x;
+	pos_y[0]= y;
+}
