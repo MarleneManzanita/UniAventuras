@@ -1,2 +1,3 @@
 # UniAventuras
- proyecto tesis xdd
+ Proyecto seminario de título ICI PUCV
+ Marlene Lagos y Macarena Troncoso
