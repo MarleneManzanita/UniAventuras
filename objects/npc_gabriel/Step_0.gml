@@ -8,5 +8,3 @@ if(following){
 if(global.current != nivel){
 	instance_destroy();
 }
-
-if(global.integ==true) instance_destroy();

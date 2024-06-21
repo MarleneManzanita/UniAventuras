@@ -1,1 +1,1 @@
-texto= "Opciones"
+texto= "Como Jugar"

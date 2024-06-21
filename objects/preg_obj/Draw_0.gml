@@ -3,8 +3,8 @@
 
 draw_set_font(fnt_pregunt);
 draw_set_color(c_black);
-draw_set_halign(fa_top);
-draw_set_valign(fa_center);
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);
 
 
 var _x = camera_get_view_x(view_camera[0]);
@@ -22,7 +22,7 @@ if ChatterboxIsStopped(chatterbox){
 	if(room == room_resultado){
 		global.current++;
 		if(actual=3){
-			game_end();
+			room_goto(room_trans);
 		}else{
 			if(actual=0) {room_goto(IBC_aula_mayor);
 			}else{
@@ -37,11 +37,13 @@ if ChatterboxIsStopped(chatterbox){
 	txtb_img += txtb_img_spd;
 	var txtb_spr_w =sprite_get_width(txtb_spr);
 	var txtb_spr_h= sprite_get_height(txtb_spr);
+	var _yy = room_height - 64;
 
 	//back of the textbox
-	draw_sprite_ext(txtb_spr,txtb_img,_x ,_y,textbox_width/txtb_spr_w, textbox_height/txtb_spr_h,0,c_white,1);
+	//draw_sprite_ext(txtb_spr,txtb_img,_x ,_y,textbox_width/txtb_spr_w, textbox_height/txtb_spr_h,0,c_white,1);
+	draw_rectangle_center(room_width/2,room_height/2, room_width-border*2, room_height-border*2, false, c_white, 0.5);
 	
-	draw_text_ext(_x + border+44 ,_y+44 + border,text,line_sep,line_width);
+	draw_text_ext(_x + border+44 ,_y + border,text,line_sep,line_width);
 	//draw_text(_x,_y,text);
 	if ChatterboxGetOptionCount(chatterbox) > 0{
 		_opty+=44;

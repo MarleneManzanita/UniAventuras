@@ -19,7 +19,6 @@
     {"name":"inst_675F063A","path":"rooms/IBC_cee/IBC_cee.yy",},
     {"name":"inst_60C207C7","path":"rooms/IBC_cee/IBC_cee.yy",},
     {"name":"inst_47676EE6","path":"rooms/IBC_cee/IBC_cee.yy",},
-    {"name":"inst_4D0CFA56","path":"rooms/IBC_cee/IBC_cee.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -42,10 +41,6 @@
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":89.703766,"scaleX":1.0,"scaleY":1.0,"x":265.0,"y":333.0,},
         {"$GMRInstance":"","%Name":"cee","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"cee","objectId":{"name":"entrada","path":"objects/entrada/entrada.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":333.0,"y":313.0,},
         {"$GMRInstance":"","%Name":"inst_4F29D6F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4F29D6F","objectId":{"name":"m_player","path":"objects/m_player/m_player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":343.0,"y":350.0,},
-        {"$GMRInstance":"","%Name":"inst_4D0CFA56","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4D0CFA56","objectId":{"name":"npc_nicanor","path":"objects/npc_nicanor/npc_nicanor.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"NPC","path":"objects/NPC/NPC.yy",},"propertyId":{"name":"char_id","path":"objects/NPC/NPC.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Nicanor\"",},
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"NPC","path":"objects/NPC/NPC.yy",},"propertyId":{"name":"nivel","path":"objects/NPC/NPC.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":435.5,"y":305.00037,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_4","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_4","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[-1486,-2147483648,2,762,763,-4,-2147483648,2,762,763,-258,-2147483648,3,1073742148,1073742132,1073742116,-83,-2147483648,3,1073742149,1073742133,1073742117,-2287,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"int1","path":"tilesets/int1/int1.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"Tiles_3","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_3","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[

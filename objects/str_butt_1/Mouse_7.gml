@@ -5,8 +5,11 @@ switch(texto){
 	case "Inicio":
 		room_goto(room_metro);
 	break;
-	case "Opciones":
-	
+	case "Como Jugar":
+		room_goto(room_controles);
+	break;
+	case "Volver":
+		room_goto(title_scr);
 	break;
 	
 	case "Salir":
