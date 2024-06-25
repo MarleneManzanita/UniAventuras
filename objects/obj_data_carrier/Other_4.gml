@@ -80,7 +80,7 @@ if (!instance_exists(NPC)) {
 					}
 				}
 				
-				if(room==room_trans){
+				if(room==room_trans && global.events_2[END_2]){
 					scr_create_text("End2","texto1.yarn");
 				}
 			}

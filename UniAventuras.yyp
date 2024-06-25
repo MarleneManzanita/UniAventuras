@@ -65,7 +65,6 @@
   ],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"texto1.yarn","CopyToMask":-1,"filePath":"datafiles","name":"texto1.yarn","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"texto2.yarn","CopyToMask":-1,"filePath":"datafiles","name":"texto2.yarn","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
