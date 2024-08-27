@@ -34,6 +34,9 @@
     "name":"fin",
     "path":"sprites/fin/fin.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"fin_mask",
+    "path":"sprites/fin_mask/fin_mask.yy",
+  },
   "visible":true,
 }

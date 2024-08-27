@@ -17,7 +17,7 @@ if (!instance_exists(NPC)) {
 	    case 1:
 	        if (!global.events_1[CAMINO]){
 				if(room==IBC_s1) {
-					scr_create_character("Magdalena1",1,266,519,npc_mag);
+					scr_create_character("Magdalena1",1,143,447,npc_mag);
 					global.events_1[CAMINO]=true;
 					scr_create_text("MCcamino","texto1.yarn");
 				}

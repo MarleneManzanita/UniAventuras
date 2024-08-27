@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
   "%Name":"spr_m_player_d",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":38,
   "bbox_left":0,
   "bbox_right":25,
-  "bbox_top":0,
+  "bbox_top":32,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,

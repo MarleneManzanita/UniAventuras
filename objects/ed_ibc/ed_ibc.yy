@@ -34,6 +34,9 @@
     "name":"ibc",
     "path":"sprites/ibc/ibc.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"ibc_mask",
+    "path":"sprites/ibc_mask/ibc_mask.yy",
+  },
   "visible":true,
 }

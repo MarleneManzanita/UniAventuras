@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
   "%Name":"ed_relleno_3",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":332,
   "bbox_left":0,
   "bbox_right":431,
-  "bbox_top":4,
+  "bbox_top":188,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,

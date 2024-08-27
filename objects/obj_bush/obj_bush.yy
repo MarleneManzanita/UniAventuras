@@ -9,7 +9,10 @@
     "name":"street_decorations_obj",
     "path":"folders/Objetos/Street_obj/street_decorations_obj.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Objeto",
+    "path":"objects/Objeto/Objeto.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

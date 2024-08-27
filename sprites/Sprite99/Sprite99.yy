@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Interiores",
-    "path":"folders/Sprites/Interiores.yy",
+    "name":"tilesets_spr",
+    "path":"folders/Sprites/tilesets_spr.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -1,6 +1,5 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-
 if(global.player_control){
 	right_key = keyboard_check(vk_right);
 	left_key = keyboard_check(vk_left);
@@ -19,11 +18,11 @@ if(global.player_control){
 xspd = (right_key - left_key) * movespd;
 yspd = (down_key - up_key) * movespd;
 
-if !collision_point(x+xspd,y,Objeto,true,true){
+if place_free(x+xspd,y){
 	x += xspd;
 }
 
-if !collision_point(x,y+yspd,Objeto,true,true){
+if place_free(x,y+yspd){
 	y += yspd;
 }
 
