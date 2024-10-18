@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"",
+  "$GMRoom":"v1",
   "%Name":"IBC_aula_mayor",
   "creationCodeFile":"rooms/IBC_aula_mayor/RoomCreationCode.gml",
   "inheritCode":false,
@@ -53,7 +53,7 @@
         {"$GMRSpriteGraphic":"","%Name":"graphic_273080B7","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_273080B7","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"crowd_d","path":"sprites/crowd_d/crowd_d.yy",},"x":419.0,"y":154.0,},
       ],"depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"","%Name":"au_may","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"au_may","objectId":{"name":"entrada","path":"objects/entrada/entrada.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":230.0,"y":163.0,},
+        {"$GMRInstance":"v1","%Name":"au_may","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"au_may","objectId":{"name":"entrada","path":"objects/entrada/entrada.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":230.0,"y":163.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_4","depth":700,"effectEnabled":true,"effectType":"none","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_4","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":16,"SerialiseWidth":32,"TileCompressedData":[
           -47,-2147483648,4,116,117,118,119,-28,-2147483648,4,180,181,182,183,-26,-2147483648,6,176,177,212,213,
@@ -65,10 +65,10 @@
           569,568,569,568,569,568,569,-68,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"aula_mayor_tileset","path":"tilesets/aula_mayor_tileset/aula_mayor_tileset.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRInstanceLayer":"","%Name":"Instances_3","depth":800,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"","%Name":"inst_52D698F4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_52D698F4","objectId":{"name":"npc_shadow","path":"objects/npc_shadow/npc_shadow.yy",},"properties":[
+        {"$GMRInstance":"v1","%Name":"inst_52D698F4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_52D698F4","objectId":{"name":"npc_shadow","path":"objects/npc_shadow/npc_shadow.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"NPC","path":"objects/NPC/NPC.yy",},"propertyId":{"name":"char_id","path":"objects/NPC/NPC.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"rodrigo\"",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":211.0,"y":33.0,},
-        {"$GMRInstance":"","%Name":"inst_1EDBE3B3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1EDBE3B3","objectId":{"name":"npc_shadow","path":"objects/npc_shadow/npc_shadow.yy",},"properties":[
+        {"$GMRInstance":"v1","%Name":"inst_1EDBE3B3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1EDBE3B3","objectId":{"name":"npc_shadow","path":"objects/npc_shadow/npc_shadow.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"NPC","path":"objects/NPC/NPC.yy",},"propertyId":{"name":"char_id","path":"objects/NPC/NPC.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"ramiro\"",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":258.0,"y":185.0,},
       ],"layers":[],"name":"Instances_3","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},

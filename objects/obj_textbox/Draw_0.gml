@@ -13,7 +13,7 @@ var _opty = _y;
 //setup
 if(!setup){
 	setup=true;
-	draw_set_font(fnt_dialog);
+	draw_set_font(global.font_main);
 	draw_set_valign(fa_top);
 	draw_set_halign(fa_left);
 	draw_set_color(c_white);
@@ -66,9 +66,8 @@ if ChatterboxIsStopped(chatterbox){
 	var _yy= room_height - (_dif / 2);
 
 	//back of the textbox
-	//draw_sprite_ext(txtb_spr,txtb_img,_x ,_y-border,view_wport[0]/txtb_spr_w, view_hport[0]/txtb_spr_h*2,0,c_white,1);
-	draw_rectangle_center(room_width/2, _y+border+20, room_width ,128 , false, c_black, 0.5);	
-	
+	draw_sprite_ext(txtb_spr,txtb_img,_x ,_y-border,view_wport[0]*1.4/txtb_spr_w, view_hport[0]*1.4/txtb_spr_h,0,c_white,1);
+	//draw_rectangle_center(room_width/2, _y+border+20, room_width ,128 , false, c_black, 0.5);	
 		
 	draw_text_ext(_x + border ,_y + border ,text,line_sep,line_width);
 	

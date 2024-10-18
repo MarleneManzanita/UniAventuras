@@ -234,6 +234,6 @@
     "name":"Default",
     "path":"texturegroups/Default",
   },
-  "TTFName":"",
+  "TTFName":"C:\\Users\\marle\\OneDrive\\Documentos\\GameMakerStudio2\\UniAventuras\\fonts\\fnt_pregunt\\Fipps-Regular.otf",
   "usesSDF":false,
 }

@@ -2,8 +2,8 @@
 // Puede escribir su código en este editor
 textbox_width =450;
 textbox_height= 80;
-border=5;
-line_sep =15;
+border=8;
+line_sep =16;
 line_width= textbox_width-border*2;
 txtb_spr= spr_textbox;
 txtb_img=0;
@@ -17,3 +17,4 @@ option_index = 0;                                  // Initialize option index
 
 size = [0.7, 0.75];                                // Character sprite scale (small and large)
 colour = [c_ltgray, c_white];
+
