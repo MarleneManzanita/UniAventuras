@@ -6,8 +6,8 @@ if(nearby_npc!= noone && global.player_control){
 	if (!instance_exists(obj_textbox)) {
 		global.player_control=false;
 		scr_create_text(_text,"texto1.yarn");
-		if(nearby_npc==npc_nicanor){
-			global.events_1[CEE]=true;
+		if(nearby_npc==obj_pc_spr){
+			room_goto(room_pc_cee);
 		}
 	}
 	

@@ -1,5 +1,4 @@
-// Los recursos de Script han cambiado para la v2.3.0 Consulta
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 para más información
+//MACROS DEL JUEGO - VARIABLES GLOBALES
 //Direcciones personajes
 #macro RIGHT 0
 #macro UP 1
@@ -54,3 +53,30 @@ global.events_2 = [false,false,false,false,false];
 global.events_3 = [false,false,false,false,false];
 
 global.integ=false;
+
+//Array sprites personajes
+#macro EMILY 0
+#macro RODRIGO 1
+#macro JUANITA 2
+#macro DIR 3
+#macro MAGDA 4
+#macro WILL 5
+#macro GABRIEL 6
+#macro HUGO 7
+#macro TOBIAS 8
+#macro NICANOR 9
+#macro FELIPE 10
+#macro BIBLIOTECARIA 11
+#macro LEO 12
+#macro ZAFIRO 13
+#macro PAULINE 14
+#macro CHESTER 15
+#macro MARCELO 16
+#macro MONSERRAT 17
+#macro NICOLAS 18
+#macro RONNY 19
+#macro FABIAN 20
+#macro GINA 21
+#macro BRUNO 22
+#macro TIA 23
+#macro PROTA 24

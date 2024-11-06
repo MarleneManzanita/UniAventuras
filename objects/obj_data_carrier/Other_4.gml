@@ -1,5 +1,3 @@
-/// @description Inserte aquí la descripción
-// Puede escribir su código en este editor
 if (!instance_exists(NPC)) {
 	switch (global.current) {
 	    case 0:
@@ -47,7 +45,7 @@ if (!instance_exists(NPC)) {
 		
 				}else if(!global.events_1[CALL_1]&& global.events_1[INTEG] ){
 					if(room==IBC_1){
-						scr_create_text("MCcertificado","texto1.yarn");
+						scr_create_text("MC_call","texto1.yarn");
 						global.events_1[CALL_1]=true;
 					}
 				}else if(!global.events_1[CEE]&& room==IBC_cee){

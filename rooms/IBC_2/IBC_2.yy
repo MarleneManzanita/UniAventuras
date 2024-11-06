@@ -18,9 +18,6 @@
     {"name":"inst_293050D4","path":"rooms/IBC_2/IBC_2.yy",},
     {"name":"inst_25F04780","path":"rooms/IBC_2/IBC_2.yy",},
     {"name":"inst_4C7CD15","path":"rooms/IBC_2/IBC_2.yy",},
-    {"name":"inst_443281DC","path":"rooms/IBC_2/IBC_2.yy",},
-    {"name":"inst_3956B4A9","path":"rooms/IBC_2/IBC_2.yy",},
-    {"name":"inst_157EDEED","path":"rooms/IBC_2/IBC_2.yy",},
     {"name":"inst_24E7F9AB","path":"rooms/IBC_2/IBC_2.yy",},
     {"name":"inst_C95A6F7","path":"rooms/IBC_2/IBC_2.yy",},
     {"name":"inst_35F5FC83","path":"rooms/IBC_2/IBC_2.yy",},
@@ -113,6 +110,7 @@
     {"name":"ibc2_6","path":"rooms/IBC_2/IBC_2.yy",},
     {"name":"inst_11E79D67","path":"rooms/IBC_2/IBC_2.yy",},
     {"name":"inst_17D36ACE","path":"rooms/IBC_2/IBC_2.yy",},
+    {"name":"inst_3956B4A9","path":"rooms/IBC_2/IBC_2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -173,15 +171,9 @@
         {"$GMRInstance":"v1","%Name":"inst_293050D4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_293050D4","objectId":{"name":"silla_cafeta","path":"objects/silla_cafeta/silla_cafeta.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.6637955,"scaleY":0.6666667,"x":1156.5533,"y":370.5,},
         {"$GMRInstance":"v1","%Name":"inst_25F04780","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_25F04780","objectId":{"name":"silla_cafeta","path":"objects/silla_cafeta/silla_cafeta.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.6637955,"scaleY":0.6666667,"x":1157.5171,"y":345.5,},
         {"$GMRInstance":"v1","%Name":"inst_4C7CD15","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4C7CD15","objectId":{"name":"silla_cafeta","path":"objects/silla_cafeta/silla_cafeta.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.6637955,"scaleY":0.6666667,"x":1183.348,"y":331.0,},
-        {"$GMRInstance":"v1","%Name":"inst_443281DC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_443281DC","objectId":{"name":"closed_door2","path":"objects/closed_door2/closed_door2.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"closed","path":"objects/closed/closed.yy",},"propertyId":{"name":"msg","path":"objects/closed/closed.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"noes\"",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-89.60724,"scaleX":1.0,"scaleY":1.0,"x":617.0,"y":521.0,},
         {"$GMRInstance":"v1","%Name":"inst_3956B4A9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3956B4A9","objectId":{"name":"closed_door2","path":"objects/closed_door2/closed_door2.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"closed","path":"objects/closed/closed.yy",},"propertyId":{"name":"msg","path":"objects/closed/closed.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"sala2-1\"",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":180.14401,"scaleX":1.0,"scaleY":1.0,"x":638.0,"y":490.0,},
-        {"$GMRInstance":"v1","%Name":"inst_157EDEED","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_157EDEED","objectId":{"name":"closed_door2","path":"objects/closed_door2/closed_door2.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"closed","path":"objects/closed/closed.yy",},"propertyId":{"name":"msg","path":"objects/closed/closed.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"sala2-1\"",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":180.02693,"scaleX":1.0,"scaleY":1.0,"x":796.0,"y":490.5771,},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":269.6239,"scaleX":1.0,"scaleY":1.0,"x":617.0,"y":514.0,},
         {"$GMRInstance":"v1","%Name":"inst_24E7F9AB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_24E7F9AB","objectId":{"name":"closed_door","path":"objects/closed_door/closed_door.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"closed","path":"objects/closed/closed.yy",},"propertyId":{"name":"msg","path":"objects/closed/closed.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"lab\"",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":89.39147,"scaleX":1.0,"scaleY":1.0,"x":98.0,"y":409.41156,},
@@ -203,7 +195,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"door","path":"objects/door/door.yy",},"propertyId":{"name":"target_room","path":"objects/door/door.yy",},"resource":{"name":"IBC_cee","path":"rooms/IBC_cee/IBC_cee.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"IBC_cee",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"door","path":"objects/door/door.yy",},"propertyId":{"name":"target_enter","path":"objects/door/door.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"cee",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-89.21682,"scaleX":1.0,"scaleY":1.0,"x":1335.9994,"y":322.71426,},
-        {"$GMRInstance":"v1","%Name":"inst_6D036159","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6D036159","objectId":{"name":"closed_door2","path":"objects/closed_door2/closed_door2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":89.035416,"scaleX":1.0,"scaleY":1.0,"x":851.7673,"y":621.0,},
+        {"$GMRInstance":"v1","%Name":"inst_6D036159","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6D036159","objectId":{"name":"closed_door2","path":"objects/closed_door2/closed_door2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":89.64064,"scaleX":1.0,"scaleY":1.0,"x":859.0,"y":620.9109,},
         {"$GMRInstance":"v1","%Name":"inst_51E2B2FB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_51E2B2FB","objectId":{"name":"closed_door2","path":"objects/closed_door2/closed_door2.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"closed","path":"objects/closed/closed.yy",},"propertyId":{"name":"msg","path":"objects/closed/closed.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"sala2-6\"",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1243.3793,"y":199.5,},

@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"tileset_carcel",
+  "%Name":"tileset_tienda",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"tileset_carcel",
+  "name":"tileset_tienda",
   "out_columns":71,
   "out_tilehborder":2,
   "out_tilevborder":2,

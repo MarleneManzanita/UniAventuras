@@ -1,5 +1,6 @@
-// Los recursos de Script han cambiado para la v2.3.0 Consulta
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 para más información
+//Función que crea los cuadros de diálogo en el juego
+//@param Nodo de chatterbox donde está el diálogo
+//@param Archivo yarn
 function scr_create_text(_node,_file){
 	with instance_create_depth(0,0,0,obj_textbox){
 	  chatterbox = ChatterboxCreate(_file);

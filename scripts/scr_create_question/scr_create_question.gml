@@ -1,5 +1,6 @@
-// Los recursos de Script han cambiado para la v2.3.0 Consulta
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 para más información
+//Función que crea las preguntas del juego
+//@param Nodo de chatterbox al que se quiere acceder
+//@param Archivo yarn
 function scr_create_question(_node,_file){
 	with instance_create_depth(0,0,0,preg_obj){
 	  chatterbox = ChatterboxCreate(_file);

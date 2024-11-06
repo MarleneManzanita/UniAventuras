@@ -121,7 +121,7 @@
           -82,-2147483648,4,1396,1397,1208,1209,-84,-2147483648,2,1240,1241,-168,-2147483648,2,1168,1169,-84,-2147483648,
           2,1200,1201,-84,-2147483648,4,1232,1233,1558,1559,-84,-2147483648,2,1590,1591,-5,-2147483648,-2,0,-77,
           -2147483648,2,1622,1623,-5,-2147483648,-2,0,-77,-2147483648,2,1654,1655,-5,-2147483648,-2,0,-1901,-2147483648,
-        ],"TileDataFormat":1,},"tilesetId":{"name":"tileset_carcel","path":"tilesets/tileset_carcel/tileset_carcel.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+        ],"TileDataFormat":1,},"tilesetId":{"name":"tileset_tienda","path":"tilesets/tileset_tienda/tileset_tienda.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"Tiles_3","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_3","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
           -1266,-2147483648,3,352,353,354,-5,355,-78,-2147483648,3,384,385,386,-5,387,-78,-2147483648,3,416,417,
           418,-5,419,-66,-2147483648,3,1073743726,1073743694,1073743662,-9,-2147483648,2,416,417,-72,-2147483648,
