@@ -52,6 +52,7 @@
     {"name":"inst_7837A67D","path":"rooms/IBC_s1/IBC_s1.yy",},
     {"name":"inst_6F6B87E8","path":"rooms/IBC_s1/IBC_s1.yy",},
     {"name":"inst_BB35CD4","path":"rooms/IBC_s1/IBC_s1.yy",},
+    {"name":"inst_3A19B910","path":"rooms/IBC_s1/IBC_s1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -126,6 +127,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"door","path":"objects/door/door.yy",},"propertyId":{"name":"target_enter","path":"objects/door/door.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"sala_s1_4",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":562.89954,"y":71.0,},
         {"$GMRInstance":"v1","%Name":"s1_4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"s1_4","objectId":{"name":"entrada","path":"objects/entrada/entrada.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.7249676,"scaleX":1.125,"scaleY":1.0,"x":567.799,"y":130.0,},
+        {"$GMRInstance":"v1","%Name":"inst_3A19B910","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3A19B910","objectId":{"name":"obj_premio","path":"objects/obj_premio/obj_premio.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":278.0,"y":372.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_6","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_6","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":45,"SerialiseWidth":54,"TileCompressedData":[
           -998,-2147483648,2,474,475,-52,-2147483648,2,506,507,-52,-2147483648,2,538,539,-436,-2147483648,6,805306600,

@@ -39,7 +39,7 @@ sprite_index=sprite[face];
 
 // Check for collision with NPCs
 nearby_npc = collision_rectangle(x-look_range,y-look_range,x+look_range,y+look_range,NPC,false,true);
-
+nearby_obj= collision_rectangle(x-look_range,y-look_range,x+look_range,y+look_range,obj_interactive,false,true);
 
 //depth
 depth= -bbox_bottom

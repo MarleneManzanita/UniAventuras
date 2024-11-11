@@ -48,7 +48,7 @@
   ],
   "name":"spr_portraits",
   "nineSlice":null,
-  "origin":0,
+  "origin":6,
   "parent":{
     "name":"NPC",
     "path":"folders/Sprites/NPC.yy",
@@ -176,7 +176,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":0,
-    "yorigin":0,
+    "yorigin":256,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

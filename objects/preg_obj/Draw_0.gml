@@ -21,13 +21,10 @@ if ChatterboxIsStopped(chatterbox){
 	}
 	if(room == room_resultado){
 		global.current++;
-		if(actual=3){
-			room_goto(room_trans);
+		if(actual==0){
+			room_goto(IBC_aula_mayor);
 		}else{
-			if(actual=0) {room_goto(IBC_aula_mayor);
-			}else{
-			room_goto(IBC_1);
-			}
+			room_goto(room_trans);
 		}
 	}
 	
@@ -46,11 +43,11 @@ if ChatterboxIsStopped(chatterbox){
 	draw_text_ext(_x + border+44 ,_y + border,text,line_sep,line_width);
 	//draw_text(_x,_y,text);
 	if ChatterboxGetOptionCount(chatterbox) > 0{
-		_opty+=44;
+		_opty+=70;
 	  for (var _i = 0; _i < ChatterboxGetOptionCount(chatterbox); _i++){
 		   var _option = string(_i+1) +": " + ChatterboxGetOption(chatterbox, _i);
 		 //_i starts at 0, but we want the choices to be numbered 1–2–3 not 0–1–2, so we +1 to it when we make our string to draw.
-			_opty+=30;
+			_opty+=70;
 		  draw_text_ext(_x + border+44,_opty + border,_option,line_sep,line_width);
 		  //draw_text(_x,_opty,_option);
 		  

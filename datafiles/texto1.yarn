@@ -58,7 +58,7 @@ title: Pregunta1
 <<jump Pregunta2>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10076,-1541
+__PrivCrochet_position: -9357,-1565
 __PrivCrochet_tags: 
 title: valla
 ---
@@ -254,6 +254,7 @@ title: MCclase1
 ---
 Inicia una nueva semana, con una clase del profesor William.
 Entras a tu primera clase de contenido, un poco asustado. Ves al profesor, su nombre es William, él es quien hace clases de programación a los alumnos de primer año, has escuchado que es alguien a quien se le debe respeto.
+<<jump William1>>
 ===
 __PrivCrochet_colorID: 0
 __PrivCrochet_position: -10321,1670
@@ -335,21 +336,22 @@ title: Tobias1
 Estudiante 2: No lo sé, yo he escuchado que cuando copias en un examen, te expulsan o te llevan a la cárcel. Te extrañaré, pero bueno, a ti se te ocurrió.<<jump MCpasillo2>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10042,3979
+__PrivCrochet_position: -9812,3744
 __PrivCrochet_tags: 
 title: Felipe4
 ---
-Hola Tía Zafiro, ¿como está? veníamos a buscar un control que dejó el ayudante Leopoldo, aquí estoy con mi compañero mechón.
+Felipe: Hola Tía Zafiro, ¿como está? veníamos a buscar un control que dejó el ayudante Leopoldo, aquí estoy con mi compañero mechón.
+<<jump Zafiro1>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9607,3501
+__PrivCrochet_position: -10052,3735
 __PrivCrochet_tags: 
 title: MCsecre1
 ---
 Subimos a secretaría y es un piso bastante lindo con vista al mar. Se puede ir a la izquierda o derecha, Felipe me indica que la secretaría está a la derecha. Nos dirigimos hacia allá.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10042,3500
+__PrivCrochet_position: -10044,3499
 __PrivCrochet_tags: 
 title: MCpensamiento
 ---
@@ -378,7 +380,7 @@ Yo: Ya veo, voy a sacar mi pase entonces.
 <<jump MCbiblio2>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9828,3501
+__PrivCrochet_position: -9547,3520
 __PrivCrochet_tags: 
 title: MCsala1
 ---
@@ -429,7 +431,7 @@ __PrivCrochet_position: -8719,1952
 __PrivCrochet_tags: 
 title: Felipe3
 ---
-¡Genial! no te defraudaré. Vamos, la biblioteca está en el edificio FIN, estas siglas significan facultad de ingeniería.
+Felipe: ¡Genial! no te defraudaré. Vamos, la biblioteca está en el edificio FIN, estas siglas significan facultad de ingeniería.
 ===
 __PrivCrochet_colorID: 0
 __PrivCrochet_position: -8097,-11
@@ -485,25 +487,28 @@ Juanita: ¡Es un secreto! Pero si te preguntas cuál es el premio al ganador, es
 Juanita: Cuando quieras intentar la trivia de esta semana, vuelve a hablar conmigo.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10042,4197
+__PrivCrochet_position: -9564,3737
 __PrivCrochet_tags: 
 title: Zafiro1
 ---
-Hola Felipe! les entregaré sus controles. Ya veo, ¿mechón? muchas experiencias nuevas. Ser joven es sin duda un regalo. Aquí en secretaría de docencia, puedes consultar diversas informaciones. Como incribir y desinscribir ramos, consultas sobre los horarios de la escuela, infomar si un profesor no asiste a clases. Hay bastantes otras cosas que pueden ser hechas.
+Srta. Zafiro: Hola Felipe! les entregaré sus controles. Ya veo, ¿mechón? muchas experiencias nuevas. Ser joven es sin duda un regalo. Aquí en secretaría de docencia, puedes consultar diversas informaciones. Como incribir y desinscribir ramos, consultas sobre los horarios de la escuela, infomar si un profesor no asiste a clases. Hay bastantes otras cosas que pueden ser hechas.
+<<jump Pauline1>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10038,4422
+__PrivCrochet_position: -9326,3738
 __PrivCrochet_tags: 
 title: Pauline1
 ---
-También aquí debes inscribir tu práctica profesional, pero aún falta bastante para eso, haha!
+Srta. Pauline: También aquí debes inscribir tu práctica profesional, pero aún falta bastante para eso, haha!
+<<jump Zafiro2>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10044,3762
+__PrivCrochet_position: -9804,3507
 __PrivCrochet_tags: 
 title: Leopoldo1
 ---
-Buen día alumnos, soy Leopoldo, pueden llamarme Leo... seré su ayudante este semestre, si estudian y le ponen de su esfuerzo, lograrán pasar este ramo. Les cuento que ya corregí sus controles en pareja, estos están disponibles en secretaría de docencia.
+Leopoldo:Buen día alumnos, soy Leopoldo, pueden llamarme Leo... seré su ayudante este semestre, si estudian y le ponen de su esfuerzo, lograrán pasar este ramo. Les cuento que ya corregí sus controles en pareja, estos están disponibles en secretaría de docencia.
+<<jump MCsala1>>
 ===
 __PrivCrochet_colorID: 0
 __PrivCrochet_position: -9589,3276
@@ -513,26 +518,26 @@ title: sala_S1-2
 El cartel dice sala "1-2"
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9595,3970
+__PrivCrochet_position: -9201,4023
 __PrivCrochet_tags: 
 title: Felipe6
 ---
 Hay que ir a buscar al profe Marcelo, debe estar por aquí su oficina.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9820,4200
+__PrivCrochet_position: -9092,3739
 __PrivCrochet_tags: 
 title: Zafiro2
 ---
-Pauline tiene razón! ella también es secretaria, y ve los temas de práctica. Bueno, sobre los controles, al parecer Leopoldo no lo ha dejado aún aquí, pero por lo último que me dijo fue que estaría con el profesor Chester, y si no está con él, debiera haber ido a ver al profesor Marcelo.
-Deben ir y buscar la sala de los profesores, que les vaya bien!
+Srta. Zafiro: Pauline tiene razón! ella también es secretaria, y ve los temas de práctica. Bueno, sobre los controles, al parecer Leopoldo no lo ha dejado aún aquí, pero por lo último que me dijo fue que estaría con el profesor Chester, y si no está con él, debiera haber ido a ver al profesor Marcelo.
+Srta. Zafiro: Deben ir y buscar la sala de los profesores, que les vaya bien!
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9825,3974
+__PrivCrochet_position: -10056,3980
 __PrivCrochet_tags: 
 title: Felipe5
 ---
-El profesor Chester tiene aquí al lado su oficina, vamos!
+Felipe: El profesor Chester tiene aquí al lado su oficina, vamos!
 ===
 __PrivCrochet_colorID: 0
 __PrivCrochet_position: -7431,-1533
@@ -549,7 +554,7 @@ title: sala_S1-1
 El cartel dice sala "S 1-1"
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8413,1668
+__PrivCrochet_position: -8414,1667
 __PrivCrochet_tags: 
 title: Pregunta8
 ---
@@ -563,29 +568,47 @@ title: Pregunta8
   Correcto!
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10039,4640
+__PrivCrochet_position: -9519,4030
 __PrivCrochet_tags: 
 title: Chester1
 ---
-Hola alumnos, ¿buscan a Leopoldo? justo se ha ido... pero me ha dicho que tiene que ir a una junta con el profesor Marcelo, debían ver algo sobre un ramo, por lo cual estarán ocupados por unos 10 minutos. ¿Están en el primer curso de programación no? aprender a programar es algo maravilloso. Pero deben tener cuídado y estudiar mucho... en primer año, se tienen 4 ramos. Todos tienen su debida importancia, ya cada uno les introduce un trozo de la carrera. Es por esta razón que por si no lo sabían, al reprobar todas las asignaturas, son expulsados de la carrera. Por lo cual deben prestarle igual atención a todos los ramos por igual, todos son importantes.
-Espero haberles aportado en algo. Que les vaya bien!
+Prof. Chester: Hola hola, pasen nomás ¿Cómo les va?
+Felipe: Wena profe, lo venimos a ver porque nos dijeron que el ayudante Leopoldo estaba con usted.
+Prof. Chester: ¿Leopoldo?...acaba de irse.
+Felipe: Diablos, ¿Y de casualidad no sabe dónde habrá ido?
+Prof. Chester: Creo que lo escuché decir que tenía una junta con el profesor Marcelo, para ver algo sobre un ramo.
+Yo: Genial, si nos apuramos podemos alcanzarlo!
+Prof. Chester: ¿Y de qué ramo es ayudante Leopoldo?
+Yo: Estamos en fundamentos de algoritmos, profesor.
+Prof. Chester: Ooh, que genial. Yo todavía recuerdo cuando era más joven y aprendí a programar por primera vez...
+Prof. Chester: Deben tener cuidado y estudiar mucho, y darle a cada ramo la importancia que corresponde. ¿Eres de primer año, cierto?
+Yo: Si, profesor.
+Prof. Chester: Ya veo, entonces deberías tener unos 4 ramos más o menos. Todos tienen su debida importancia, ya cada uno les introduce un trozo de la carrera. Es por esta razón que por si no lo sabían, si no logran aprobar ninguna asignatura de primer semestre en este primer año, te expulsan.
+Me llegó a dar miedo al escuchar eso...
+Prof. Chester: Bueno, no los retengo más ¡Ojalá les vaya bien!
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10040,4873
+__PrivCrochet_position: -8547,4022
 __PrivCrochet_tags: 
 title: Marcelo1
 ---
-Hola alumnos. Buenas tardes, se que buscan a Leopoldo, pero acaba de irse, debe estar por las escaleras, aún pueden alcanzarlo. Si me necesitan nuevamente, la gran mayoría del tiempo estoy aquí en mi oficina. Pueden consultar con las secretarias mi horario, recuerden que también pueden estar en comunicación con los profesores mediante mensajes de aula virtual o correo institucional. Eso por mi parte. ¡Que les vaya bien!
+Prof. Marcelo: Hola alumnos. Buenas tardes, ¿Qué se les ofrece?
+Felipe: Disculpe la molestia profe, pero estamos buscando a Leopoldo.
+Prof. Marcelo: ...Acaba de irse, debe estar por las escaleras, aún pueden alcanzarlo. 
+Yo: Muchas gracias profesor.
+Prof. Marcelo: De nada. Si me necesitan nuevamente, la gran mayoría del tiempo estoy aquí en mi oficina. Pueden consultar con las secretarias mi horario.
+Prof. Marcelo: Recuerden que también pueden estar en comunicación con los profesores mediante mensajes de aula virtual o correo institucional. Eso por mi parte. ¡Que les vaya bien!
+<<jump MCsecre2>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9351,3500
+__PrivCrochet_position: -8319,4016
 __PrivCrochet_tags: 
 title: MCsecre2
 ---
 El profesor Marcelo es bastante serio, pero muy amable. Debemos ir a buscar a Leopoldo!
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8769,3275
+__PrivCrochet_position: -8770,3274
 __PrivCrochet_tags: 
 title: Pregunta9
 ---
@@ -596,13 +619,26 @@ title: Pregunta9
    Incorrecto!
 -> Consulta de pagos de arancel
    Correcto!
+
+<<jump Pregunta10>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9822,3757
+__PrivCrochet_position: -10050,4324
 __PrivCrochet_tags: 
 title: Leopoldo2
 ---
-¿Me estaban buscando? Ah, si... sus controles. Deben ponerse las pilas, ya que no están muy buenos. No olviden que reprobación de todos los ramos es expulsión. Bueno, se sacaron un 4. Estudien, ya que este ramo no es bajo en créditos. Por lo cual deben estudiar. Bueno, ya me voy. Frecuento siempre este piso ya que suelo estar con los profesores. Si necesitan hablar conmigo, pueden enviarme un mail, el cual está en el aula virtual de la asignatura. Nos vemos.
+Felipe: ¡Oye Leo!
+Leopoldo: Hola, ¿Me estaban buscando?
+Yo: Si, vinimos por las notas de los controles pero nos dijeron que no las tenían en secretaría.
+Leopoldo:Ah, si... sus controles.
+Leopoldo saca un sobre de su mochila y busca nuestros controles. Nos los entrega.
+Leopoldo: Deben ponerse las pilas, ya que no están muy buenos. No olviden que reprobación de todos los ramos es expulsión. 
+Leopoldo: Bueno, se sacaron un 4. Estudien, ya que este ramo no es bajo en créditos. 
+Leopoldo: Bueno, ya me voy. Frecuento siempre este piso ya que suelo estar con los profesores. Si necesitan hablar conmigo, pueden enviarme un mail, el cual está en el aula virtual de la asignatura.
+Felipe: Chao Leo, nos vemos.
+Leopoldo se va.
+Felipe: Bueno, por lo menos tuvimos un azul...Yo ya me voy a mi casa, que tengo una partida de LOL pendiente con mis amigos.
+Yo: Adiós.
 ===
 __PrivCrochet_colorID: 0
 __PrivCrochet_position: -10078,2187
@@ -659,30 +695,32 @@ Yo: Wow, se nota que has aprendido mucho.
 Felipe: Si me dejas darte un consejo,jamás dejes esta asignatura para última hora, yo no me aprendí de memoria esta información por que me ha ido bien, pero se que tu lo harás mejor que yo.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8603,2425
+__PrivCrochet_position: -8604,2424
 __PrivCrochet_tags: 
 title: Juanita2
 ---
 Hola! aquí puedes responder tus preguntas de la semana 2, ¿estás listo?
 -> Si!
-Genial.
+    Genial.
 -> Aún no.
-Vuelve cuando estés listo.
+    Vuelve cuando estés listo.
 -> ...
-Vuelve cuando estés listo.
+    Vuelve cuando estés listo.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8866,1669
+__PrivCrochet_position: -8868,1667
 __PrivCrochet_tags: 
 title: Pregunta6
 ---
-¿Como se puede solicitar un préstamo en la biblioteca? 
+¿Cómo se puede solicitar un préstamo en la biblioteca? 
 -> Por la página de la biblioteca.
    Incorrecto!
--> Por la página de la bibliotec y presencial.
+-> Por la página de la biblioteca y presencial.
    Correcto!
 -> Por el correo institucional y presencial.
    Incorrecto!
+
+<<jump Pregunta7>>
 ===
 __PrivCrochet_colorID: 0
 __PrivCrochet_position: -8639,1675
@@ -696,9 +734,10 @@ title: Pregunta7
    Incorrecto!
 -> Para medir el esfuerzo necesario en horas educativas
   Correcto!
+<<jump Pregunta8>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8552,3278
+__PrivCrochet_position: -8553,3276
 __PrivCrochet_tags: 
 title: Pregunta10
 ---
@@ -709,6 +748,8 @@ title: Pregunta10
   Correcto!
 -> Vía redes sociales de la escuela de informática PUCV.
   Incorrecto!
+
+<<jump Pregunta11>>
 ===
 __PrivCrochet_colorID: 0
 __PrivCrochet_position: -8320,3275
@@ -724,32 +765,34 @@ title: Pregunta11
   Incorrecto!
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10046,5466
+__PrivCrochet_position: -9540,5214
 __PrivCrochet_tags: 
 title: Felipe7
 ---
 Felipe: Claro, vamos allá.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10045,5213
+__PrivCrochet_position: -10048,5211
 __PrivCrochet_tags: 
 title: MCpensamiento1_nivel4
 ---
 Una nueva semana se inicia en la Escuela de Ingeniería Informática de la PUCV. Ya estamos cercanos a las pruebas por lo que los nervios están presentes en todos los alumnos. Me siento cansado y me gustaría beber un poco de agua...
+<<jump MC_dialogo1_nivel4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9786,5213
+__PrivCrochet_position: -9295,5211
 __PrivCrochet_tags: 
 title: MCpensamiento2_nivel4
 ---
 LLegamos a la cafetería, quiero consultar cuanto cuesta una botella de agua.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10059,5698
+__PrivCrochet_position: -9794,5208
 __PrivCrochet_tags: 
 title: MC_dialogo1_nivel4
 ---
 Yo: Oye Felipe, ¿me acompañas a la cafetería?
+<<jump Felipe7>>
 ===
 __PrivCrochet_colorID: 0
 __PrivCrochet_position: -7940,-1190
@@ -841,42 +884,46 @@ Hola! aquí puedes responder tus preguntas de la semana 1, ¿estás listo?
     Vuelve cuando estés listo.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10063,5937
+__PrivCrochet_position: -8800,5208
 __PrivCrochet_tags: 
 title: TiaCafeta
 ---
 Tia Cafeta: Hola, el precio es $2000 pesos.
+<<jump MCpensamiento3_nivel4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9289,5219
+__PrivCrochet_position: -8111,5212
 __PrivCrochet_tags: 
 title: MCpensamiento4_nivel4
 ---
 Sonrío a Felipe. Siempre tiene muy buenas ideas y datos. Nos dirigimos a la sala del CEE entonces.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9786,5463
+__PrivCrochet_position: -8341,5213
 __PrivCrochet_tags: 
 title: Felipe8
 ---
 Felipe: Ja ja ja, ¿te sorprendió el precio del agua o no?, bueno, te tengo buenas noticias. En el CEE tienen agua purificada gratis, vamos allá y pedimos un poco.
+<<jump MCpensamiento4_nivel4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9823,5696
+__PrivCrochet_position: -9031,5211
 __PrivCrochet_tags: 
 title: MC_dialogo2_nivel4
 ---
 Yo: Hola tía, ¿a cuanto tiene las aguas minerales?
+<<jump TiaCafeta>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9535,5211
+__PrivCrochet_position: -8562,5212
 __PrivCrochet_tags: 
 title: MCpensamiento3_nivel4
 ---
 Mis ojos se abren como platos, y con suerte logra salir un "gracias, no llevaré nada" de mi boca. Mis humildes $500 pesos no eran suficientes para la Cafeta.
+<<jump Felipe8>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9096,6185
+__PrivCrochet_position: -9797,5702
 __PrivCrochet_tags: 
 title: Emily6
 ---
@@ -886,72 +933,81 @@ Emily: La Comisión evalúa la admisibilidad de la denuncia en un plazo de 5 dí
 Emily: Las medidas de protección se basan en prohibir el contacto entre la persona denunciada y la víctima, cambiar horarios o ubicaciones de trabajo, o restringir el acceso a la universidad en casos graves.
 Emily: Las sanciones van desde amonestaciones orales y escritas, hasta la cancelación de la matrícula o terminación del contrato laboral.
 Emily: Eso es escencialmente, ¿está bien? puedo ayudarte a rellenar el formulario si quieres.
+<<jump Monserrat4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9044,5218
+__PrivCrochet_position: -10039,5450
 __PrivCrochet_tags: 
 title: MCpensamiento5_nivel4
 ---
 Llegando a la sala del CEE, solo hay una persona ahí. Se me hace conocida...
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8811,5218
+__PrivCrochet_position: -9088,5453
 __PrivCrochet_tags: 
-title: MCpensamiento6_nivel4
+title: MCpensamiento6_4
 ---
 Nos servimos agua en unos vasos que tienen en el mismo CEE. Pero mientras estamos en eso, entra rápidamente una chica, la cúal se ve bastante afligida. Emily nos hace una seña para que nos vayámos, pero la chica niega con la cabeza.
+<<jump Monserrat1>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9817,6183
+__PrivCrochet_position: -9325,5457
 __PrivCrochet_tags: 
 title: Emily3
 ---
 Emily: Claro! Adelante.
+<<jump MCpensamiento6_4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9564,5696
+__PrivCrochet_position: -9557,5454
 __PrivCrochet_tags: 
 title: MC_dialogo3_nivel4
 ---
 Yo: Hola!! Gracias... la verdad solo veníamos por un poco de agua.
+<<jump Emily3>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10059,6182
+__PrivCrochet_position: -9790,5455
 __PrivCrochet_tags: 
 title: Emily2
 ---
 Emily: Hola!! ¿como están? Yo soy Emily, la delegada de género del centro de estudiantes de la Escuela de Ingeniería Informática. Un gusto conocerlos, ¿puedo ayudarles con algo?
+<<jump MC_dialogo3_nivel4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9818,6433
+__PrivCrochet_position: -8365,5462
 __PrivCrochet_tags: 
 title: Monserrat2
 ---
 Monserrat: Si, te diré lo que sucedió. Hay un compañero con el que comparto ciertos ramos, el cual no deja de acosarme. Me escribe por redes sociales, me sigue dentro de la Universidad, y aveces siento que me sigue al irnos a casa. ¿Crees que haya algo que se pueda hacer para sentirme más segura viniendo a clases?
+<<jump Emily5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10057,6427
+__PrivCrochet_position: -8840,5462
 __PrivCrochet_tags: 
 title: Monserrat1
 ---
 Monserrat: No es necesario que se vayan. Mientras más gente sepa, mejor. Necesito hacer una denuncia contra un compañero quien me está acosando, pero no sé cómo. Necesito ayuda, y me dijeron que Emily podría orientarme.
+<<jump Emily4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9569,6179
+__PrivCrochet_position: -8601,5464
 __PrivCrochet_tags: 
 title: Emily4
 ---
 Emily: Oh... claro. ¿Me puedes contar...? Si es que estás cómoda, dame los detalles de lo que sucedió.
+<<jump Monserrat2>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9561,6436
+__PrivCrochet_position: -10031,5691
 __PrivCrochet_tags: 
 title: Monserrat3
 ---
 Monserrat: Tengo una duda... No creo que haya alguna prueba o recibo específico que muestre acoso sexual... ¿es posible igualmente hacer la denuncia?
+<<jump Emily6>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9340,6177
+__PrivCrochet_position: -8114,5458
 __PrivCrochet_tags: 
 title: Emily5
 ---
@@ -959,22 +1015,25 @@ Emily: Hay varios pasos a seguir que tendrán como objetivo que tengas apoyo y c
 Emily: Primer paso, debes realizar la denuncia en la comisión CAHVDA. Esta puede ser realizada por internet o presencial en su oficina ubicada en Casa Central. Para la denuncia Online se debe llenar un formulario el cual se puede encontrar en la página de la Universidad (pucv.cl). En este se consultarán ciertos datos de los hechos, el/la denunciante y el/la denunciado/a. 
 Emily: Luego, una vez recibida tu denuncia, se establecerá una comisión la cúal estará  compuesta por académicos, estudiantes, profesionales con experiencia en la materia y un representante administrativo.Las funciones principales de la comisión son recibir denuncias, determinar la admisibilidad de las mismas, acompañar a las víctimas durante el proceso, proponer medidas de protección y resolver los casos. También elabora una memoria anual con las acciones adoptadas.
 Emily: ¿Vas entendiendo bien la información?
+<<jump Monserrat3>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8944,7265
+__PrivCrochet_position: -9476,6532
 __PrivCrochet_tags: 
 title: Pregunta13
 ---
-¿Cual de estas opciones NO es parte de las consultas posibles en secretaría de docencia?
--> Consulta de horarios
+Escoja la alternativa que mejor describa a la PUCV inclusiva
+-> Grupo de estudiantes orientado a reconocer la diversidad, promover la inclusión social y asegurar las condiciones de equidad e igualdad de oportunidades.
    Incorrecto!
--> Inscripción de ramos
-   Incorrecto!
--> Consulta de pagos de arancel
+-> Programa Universitario orientado a reconocer la diversidad, promover la inclusión social y asegurar las condiciones de equidad e igualdad de oportunidades.
    Correcto!
+-> Talleres orientados a reconocer la diversidad, promover la inclusión social y asegurar las condiciones de equidad e igualdad de oportunidades.
+   Incorrecto!
+
+<<jump Pregunta14>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9191,7261
+__PrivCrochet_position: -9724,6526
 __PrivCrochet_tags: 
 title: Pregunta12
 ---
@@ -985,48 +1044,54 @@ title: Pregunta12
    Incorrecto!
 -> Testificar por correo electrónico a la escuela 
    Correcto!
+<<jump Pregunta13>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7646,5700
+__PrivCrochet_position: -8414,6289
 __PrivCrochet_tags: 
 title: MC_dialogo11_nivel4
 ---
 Yo: No tenía en mi conocimiento esta información. Gracias Emily y Ronny. Si algún compañero lo necesita, le daré la información.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7875,5700
+__PrivCrochet_position: -8977,6284
 __PrivCrochet_tags: 
 title: MC_dialogo10_nivel4
 ---
 Yo: Wow, no sabía que existía un programa orientado a eso, ¿que beneficios tiene?
+<<jump Emily8>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8861,6192
+__PrivCrochet_position: -9750,6266
 __PrivCrochet_tags: 
 title: Emily7
 ---
 Emily: Hola chicos! Les presento a mi amigue Ronny. Vino a hablar conmigo ya que quiere unirse a la PUCV inclusiva.
+<<jump MCpensamiento9_nivel4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8342,5221
+__PrivCrochet_position: -10041,6263
 __PrivCrochet_tags: 
 title: MCpensamiento8_nivel4
 ---
 Al llegar al lugar del evento, nos encontramos a Emily hablando con una persona.
+<<jump Emily7>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9308,5469
+__PrivCrochet_position: -8046,5715
 __PrivCrochet_tags: 
 title: Felipe10
 ---
 Felipe: Claro que sí. La verdad las redes de apoyo en la Universidad funcionan bien la verdad. Yo tuve un amigo en primer año que recibió ayuda de la Universidad.
+<<jump MC_dialogo6_nivel4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9328,6436
+__PrivCrochet_position: -9581,5701
 __PrivCrochet_tags: 
 title: Monserrat4
 ---
 Monserrat: Claro! me ayudaría bastante una ayuda.
+<<jump MC_dialogo4_nivel4>>
 ===
 __PrivCrochet_colorID: 0
 __PrivCrochet_position: -9327,5699
@@ -1036,120 +1101,135 @@ title: MC_dialogo4_nivel4
 Yo: Bueno, nosotros ya nos vamos... gracias y que te vaya bien con tu denuncia...
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9547,5457
+__PrivCrochet_position: -8533,5711
 __PrivCrochet_tags: 
 title: Felipe9
 ---
 Felipe: Estuvo bastante intensa la clase, ¿no? Tengo miedo de reprobar nuevamente... Pero creo poder hacerlo está vez. ¿Que te sucede? te veo afligido. ¿Es por lo que ha pasado antes?
+<<jump MC_dialogo5_nivel4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9091,5701
+__PrivCrochet_position: -8287,5716
 __PrivCrochet_tags: 
 title: MC_dialogo5_nivel4
 ---
 Yo: Ah... Si. La verdad me ha dejado pensando sobre las redes de apoyo en la Universidad. Al menos eso podrá ayudar a la chica que vimos, ¿no?
+<<jump Felipe10>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8841,5701
+__PrivCrochet_position: -7802,5720
 __PrivCrochet_tags: 
 title: MC_dialogo6_nivel4
 ---
 Yo: ¿En serio? Pero y que le sucedió, ¿acaso también lo acosaron?
+<<jump Felipe11>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9057,5448
+__PrivCrochet_position: -10028,5949
 __PrivCrochet_tags: 
 title: Felipe11
 ---
 Felipe: No no, no es eso. La Universidad no tiene solo redes de apoyo para acoso. Este chico que te digo, se llama Nicolas. Él venía de un entorno super vulnerable. Entró a la Universidad por que era super inteligente, con Gratuidad. Pero para sus papás no era tan simple. Necesitaban que el trabajara, y tampoco les alcanzaba para que el viniera a la U a sólo estudiar. 
 Felipe: Él  tiene gratuidad y tambien beca JUNAEB, pero lo que le faltaba era escencialmente algo que lo ayudara a poder tener dinero para movilización, ya que él es de San Antonio, no de por acá. Lo bueno es que la Universidad tiene una beca de mantención de Excelencia, la cual consiste en un aporte monetario mensual para apoyar gastos de mantención de estudiantes de primer año, que provengan de una región distinta a la de Valparaíso y que hayan obtenido el Beneficio de la Gratuidad.
 Felipe: La beca se da automática a los estudiantes que hayan obtenido un puntaje promedio PAES (Competencia Matemáticas y Competencia Lectora) igual o mayor a 850 puntos. Y le daban $130.000 mensuales, de marzo a diciembre.  Lo cual le alcanzaba justo para poder viajar.
+<<jump MC_dialogo7_nivel4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8586,5704
+__PrivCrochet_position: -9802,5949
 __PrivCrochet_tags: 
 title: MC_dialogo7_nivel4
 ---
 Yo: Wow, eso es genial. ¿Pero y así no más?, ¿O sea le daban la plata sin ningún requerimiento extra?
+<<jump Felipe12>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8821,5459
+__PrivCrochet_position: -9569,5946
 __PrivCrochet_tags: 
 title: Felipe12
 ---
-Felipe: No no, nada es tan simple. Su renovación es anual y requiere la aprobación del 100% de las asignaturas inscritas en el período académico correspondiente, y se extiende por el período oficial de duración de la carrera. Pero para él nunca fue drama, si es súper mateo. De hecho, es el numero 1 en ranking en la carrera si no me equivoco. Ya no nos vemos mucho ya que él avanzó harto en la carrea y yo me quedé atrás. Pero nos saludamos cuando nos vemos, es super buena onda. Igual por lo que me dijo, hay más ayudas y becas dependiendo de cada situación, como por ejemplo, si tienes un hijo, la Universidad te puede otorgar la beca Padres y Madres, o Beca de Residencia si eres de otra Región. Por lo que es bueno siempre preguntar si uno necesita asistencia.
+Felipe: No no, nada es tan simple. Su renovación es anual y requiere la aprobación del 100% de las asignaturas inscritas en el período académico correspondiente, y se extiende por el período oficial de duración de la carrera.
+Felipe:Pero para él nunca fue drama, si es súper mateo. De hecho, es el numero 1 en ranking en la carrera si no me equivoco. Ya no nos vemos mucho ya que él avanzó harto en la carrea y yo me quedé atrás. Pero nos saludamos cuando nos vemos, es super buena onda. 
+Felipe: Igual por lo que me dijo, hay más ayudas y becas dependiendo de cada situación, como por ejemplo, si tienes un hijo, la Universidad te puede otorgar la beca Padres y Madres, o Beca de Residencia si eres de otra Región. Por lo que es bueno siempre preguntar si uno necesita asistencia.<<jump MC_dialogo8_nivel4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8344,5696
+__PrivCrochet_position: -9293,5957
 __PrivCrochet_tags: 
 title: MC_dialogo8_nivel4
 ---
 Yo: Es bueno saberlo. Oye, vi en el grupo de difusión del centro de estudiantes que se te quedaron los audífonos en la sala del CEE. Escribieron que Emily se los llevó. Vamos a buscarlos.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10056,6681
+__PrivCrochet_position: -9017,5968
 __PrivCrochet_tags: 
 title: Nicanor3
 ---
-Nicanor: Oh, hola. ¿Como están? ¿Emily? Ah, se fue como hace 10 minutos. Tenía una reunión en la PUCV inclusiva, pueden ir a buscarla allá.
+Nicanor: Oh, hola. ¿Como están? 
+Yo: Hola, estamos buscando a Emily
+Nicanor: ¿Emily? Ah, se fue como hace 10 minutos. Tenía una reunión en la PUCV inclusiva, pueden ir a buscarla allá.
+<<jump MC_dialogo9_nivel4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8106,5702
+__PrivCrochet_position: -8770,5968
 __PrivCrochet_tags: 
 title: MC_dialogo9_nivel4
 ---
 Yo: ¿PUCV inclusiva? ¿Que es eso? ¿Dónde queda?
+<<jump Nicanor4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9802,6685
+__PrivCrochet_position: -8539,5971
 __PrivCrochet_tags: 
 title: Nicanor4
 ---
 Nicanor: La PUCV inclusiva es un programa que ofrece la Universidad. Yo no sé mucho de ello, pero Emily les podrá dar detalles. La oficina de la PUCV inclusiva la pueden encontrar en el edificio Gimpert, pero por hoy se que están haciendo una actividad aquí fuera del edificio, en Avenida  Brasil. ¡Suerte y que les vaya bien!
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8102,5218
+__PrivCrochet_position: -9493,6271
 __PrivCrochet_tags: 
 title: MCpensamiento9_nivel4
 ---
 Ambos saludamos amables a Ronny.
+<<jump Ronny1>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10053,6923
+__PrivCrochet_position: -9245,6271
 __PrivCrochet_tags: 
 title: Ronny1
 ---
 Ronny: Encantade de conocerlos. Me llamo Ronny. Estoy en primer año de Ingeniería Informática en la PUCV. Me ha costado hacer amigos desde que llegué, ya que soy No Binarie. Pero esa no es la razón por la cual vine a la PUCV inclusiva la verdad. He venido ya que me han comentado que dan apoyo a alumnos que sufran alguna discapacidad o dificuldad, y hace poco me han diagnosticado con autismo. Me ha estado costando hacer trabajos en grupos y los profesores son duros con todos por igual, por lo que he venido para poder recibir apoyo. Emily me ha hablado muy bien del programa.
+<<jump MC_dialogo10_nivel4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8631,6188
+__PrivCrochet_position: -8734,6282
 __PrivCrochet_tags: 
 title: Emily8
 ---
 Emily: Tiene diversas cosas. En primer lugar, te dan acceso al psicólogo de la Universidad, y también flexibilidad en algunos ámbitos educativos. Este programa asegura entornos de aprendizaje accesibles y efectivos, orientados a reconocer la diversidad, promover la inclusión social y asegurar las condiciones de equidad e igualdad de oportunidades de los estudiantes que presenten algún tipo de discapacidad.
+<<jump MC_dialogo11_nivel4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10055,7220
+__PrivCrochet_position: -10040,4593
 __PrivCrochet_tags: 
 title: Juanita3
 ---
 Juanita: Hola! aquí puedes responder tus preguntas de la semana 3, ¿estás listo?
 -> Si!
-Juanita: Genial.
+    Genial.
 -> Aún no.
-Juanita: Vuelve cuando estés listo.
+   Vuelve cuando estés listo.
 -> ...
-Juanita: Vuelve cuando estés listo.
+    Vuelve cuando estés listo.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8577,5218
+__PrivCrochet_position: -9101,5699
 __PrivCrochet_tags: 
 title: MCpensamiento7_nivel4
 ---
 Nos fuimos de la sala del CEE. Me siento un poco nervioso con todo lo que ha pasado. Pero trato de no pensar en eso, ya que tengo clases en la sala 2-6, una de las últimas clases antes de la prueba. Vamos allá...
+<<jump clase_2-6>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8699,7262
+__PrivCrochet_position: -9231,6529
 __PrivCrochet_tags: 
 title: Pregunta14
 ---
@@ -1162,269 +1242,254 @@ La Universidad entrega distintos tipos de Becas, como:
    Incorrecto! Cae es otorgado por el estado y no es una beca
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10080,7650
+__PrivCrochet_position: -10505,7389
 __PrivCrochet_tags: 
 title: MCpensamiento1_nivel5
 ---
 Ha llegado la última semana de la búsqueda del tesoro. Esta semana sabremos quién ganará la GameStation6. Esto significa que es mi quinta semana siendo mechón. El tiempo ha pasado muy rápido. Cuando recién entre, pensé que mi única preocupación sería divertirme y ganar la búsqueda del tesoro, pero no. Mis ánimos están un poco bajos debido a que la semana pasada hemos tenido nuestra primera prueba y no me ha ido como esperaba. La Universidad es un poco más difícil de lo que pensaba y me está costando enfrentarlo... Mientras pensaba, noto que Felipe está sentado en la cafeta mirando a la nada. Se le ve un poco triste...
+<<jump MC_dialogo1_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10097,7940
+__PrivCrochet_position: -10181,7428
 __PrivCrochet_tags: 
 title: MC_dialogo1_nivel5
 ---
 Yo: Hola Felipe... ¿cómo estás? te veo que estás algo afligido.
+<<jump Felipe13>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10118,8259
+__PrivCrochet_position: -9946,7416
 __PrivCrochet_tags: 
 title: Felipe13
 ---
 Felipe: Oh... Hola. Si, perdóname. Estoy un poco preocupado por mi situación. No creo que me haya ido muy bien en la prueba que tuvimos la semana pasada. Y como ya te lo había comentado, esta es mi tercera vez dando el ramo. Despúes de esta no hay otra, ¿entiendes?
+<<jump MC_dialogo2_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9826,7942
+__PrivCrochet_position: -9688,7413
 __PrivCrochet_tags: 
 title: MC_dialogo2_nivel5
 ---
 Yo: Si... recuerdo que me habías comentado que despúes de reprobar 3 veces el mismo ramo había riesgo de expulsión... ¿pero y no puedes apelar? a parte has aprobado otro ramos ¿no?
+<<jump Felipe14>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9846,8253
+__PrivCrochet_position: -9441,7419
 __PrivCrochet_tags: 
 title: Felipe14
 ---
 Felipe: Ahí está uno de los problemas. La mayoría de los ramos los he reprobado, con decirte que mi IRA está en rojo, nada bien para un alumno de segundo año.
+<<jump MC_dialogo3_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9535,7932
+__PrivCrochet_position: -9176,7420
 __PrivCrochet_tags: 
 title: MC_dialogo3_nivel5
 ---
 Yo: ¿IRA en rojo? ¿A que te refieres? ¿a que estás enojado?
+<<jump Felipe15>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9534,8248
+__PrivCrochet_position: -8919,7414
 __PrivCrochet_tags: 
 title: Felipe15
 ---
 Felipe: No no, ¿acaso no sabes lo que es el IRA? pero si ya llevamos casi un mes de Universidad... aunque bueno, la gran mayoría no tiene  idea independiente si eres de primer o último año. Ven, vamos al CEE, te explicaré en grandes rasgos lo que es.
+<<jump MCpensamiento2_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9831,7655
+__PrivCrochet_position: -8676,7411
 __PrivCrochet_tags: 
 title: MCpensamiento2_nivel5
 ---
 Debo acompañar a Felipe a la sala del CEE para aprender lo que es el IRA.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9283,7932
+__PrivCrochet_position: -7991,7398
 __PrivCrochet_tags: 
 title: MC_dialogo4_nivel5
 ---
 Yo: Wow... Y tu color está en rojo... ¿que significa eso?
+<<jump Felipe18>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9042,7926
+__PrivCrochet_position: -7514,7402
 __PrivCrochet_tags: 
 title: MC_dialogo5_nivel5
 ---
 Yo: Bueno... aún debes esperar a que entreguen las notas, intenta mantenerte positivo.
+<<jump MCpensamiento3_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8751,8260
+__PrivCrochet_position: -7777,7401
 __PrivCrochet_tags: 
 title: Felipe18
 ---
-Felipe: No estoy 100% seguro, pero no es bueno. Al reprobar un ramo más de dos veces, puedes tener una tercera oportunidad. Pero para pedir una cuarta no es tan simple. Y mi color en la alerta académica es un tema, no me juega nada a favor para poder apelar a la última oportunidad. La verdad estoy preocupado...
+Felipe: No estoy 100% seguro, pero no es bueno. Al reprobar un ramo más de dos veces, puedes tener una tercera oportunidad. Pero para pedir una cuarta no es tan simple. Y mi color en la alerta académica es un tema, no me juega nada a favor para poder apelar a la última oportunidad. La verdad estoy preocupado...<<jump MC_dialogo5_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9008,8258
+__PrivCrochet_position: -8223,7400
 __PrivCrochet_tags: 
 title: Felipe17
 ---
 Felipe: Como puedes ver, al entrar al Navegador Académico, bajo nuestra Información Personal e Inscripciones vigentes, tenemos el Sistema de Alertas Académicas. Este muestra cúal es nuestro Nivel de Riesgo Académico, y cúal es la acción por tomar. 
 Felipe: Al presionar acción, nos mostrará varias cosas. Primero los indicadores por semestre, el cúal te muestra por cada semestre el valor actualizado del indicador. Esto determina tu Nivel de Riesgo.
+<<jump MC_dialogo4_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9277,8256
+__PrivCrochet_position: -8454,7404
 __PrivCrochet_tags: 
 title: Felipe16
 ---
 Felipe: Mira, ingresemos al aula en el computador.
+<<jump Felipe17>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9595,7651
+__PrivCrochet_position: -7221,7428
 __PrivCrochet_tags: 
 title: MCpensamiento3_nivel5
 ---
 Veo que Felipe no dice nada, y solo se ve triste, es muy deprimente ya que él suele ser muy alegre...
+<<jump MC_dialogo6_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8788,7919
+__PrivCrochet_position: -6960,7420
 __PrivCrochet_tags: 
 title: MC_dialogo6_nivel5
 ---
 Yo: Me tengo que ir... tengo una clase donde debemos entrevistar a alumnos de curso superior sobre sus práticas profesionales. No te desanimes ¿ok? todo irá bien, nos vemos...
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9347,7656
+__PrivCrochet_position: -6700,7418
 __PrivCrochet_tags: 
 title: MCpensamiento4_nivel5
 ---
 Me voy un poco preocupado por Felipe. Pero debo ir a la charla. Esta será en la sala 2-4.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9087,7646
-__PrivCrochet_tags: 
-title: Node_3
----
-Empty Text
-===
-__PrivCrochet_colorID: 0
-__PrivCrochet_position: -9087,7646
-__PrivCrochet_tags: 
-title: Node_4
----
-Empty Text
-===
-__PrivCrochet_colorID: 0
-__PrivCrochet_position: -9087,7646
-__PrivCrochet_tags: 
-title: Node_5
----
-Empty Text
-===
-__PrivCrochet_colorID: 0
-__PrivCrochet_position: -9087,7646
-__PrivCrochet_tags: 
-title: Node_6
----
-Empty Text
-===
-__PrivCrochet_colorID: 0
-__PrivCrochet_position: -9087,7646
-__PrivCrochet_tags: 
-title: Node_7
----
-Empty Text
-===
-__PrivCrochet_colorID: 0
-__PrivCrochet_position: -9087,7646
-__PrivCrochet_tags: 
-title: Node_8
----
-Empty Text
-===
-__PrivCrochet_colorID: 0
-__PrivCrochet_position: -9087,7646
+__PrivCrochet_position: -10514,7915
 __PrivCrochet_tags: 
 title: MCpensamiento5_nivel5
 ---
 Al llegar a la charla me siento con mi grupo que me hice en el ramo. Debemos hacer un informe sobre las prácticas profesionales que han hecho alumnos de cursos superiores. Debemos entrevistar a 3 de ellos en grupo. Nos han dado sus nombres previamente, Fabián, Gina y Bruno. El profesor da una introducción y dirige a los alumnos por grupo. Primero debemos entrevistar a Gina.
+<<jump Gina1>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10114,8529
+__PrivCrochet_position: -10258,7918
 __PrivCrochet_tags: 
 title: Gina1
 ---
 Gina: Hola a todos, ¿cómo están? Me llamo Gina y estoy actualmente en quinto año. Hice mi práctica 1 en CoBec, la empresa petrolera. Esta fue mi primera práctica, ya que por si no lo sabían, son 2 las que debemos hacer en la carrera de Ingeniería Civil Informática acá en la PUCV. Mi cargo fue en Ciberseguridad y mis responsabilidades fueron...
+<<jump MCpensamiento6_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8829,7650
+__PrivCrochet_position: -10028,7926
 __PrivCrochet_tags: 
 title: MCpensamiento6_nivel5
 ---
 Gina habló de su experiencia en CoBec. También nos comentó que había reprobado varios ramos, por eso había rendido su práctica 1 en su quinto año. Recordé lo que me mencionó Felipe... Esperé a que mis compañeros hicieran las preguntas que teníamos planeadas, y como sobró tiempo, quise preguntar sobre el tema.
+<<jump MC_dialogo7_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8540,7920
+__PrivCrochet_position: -9792,7928
 __PrivCrochet_tags: 
 title: MC_dialogo7_nivel5
 ---
 Yo: Tengo una pregunta, como mencionaste reprobaste algunos ramos... ¿cual es tu indice de riesgo académico? ¿cómo ha sido tu proceso con este tema?
+<<jump Gina2>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9847,8521
+__PrivCrochet_position: -9549,7929
 __PrivCrochet_tags: 
 title: Gina2
 ---
 Gina: Uh... Que extraña pregunta, pero puedo responderte. Ahora mi IRA está de color amarillo. El año pasado estuvo en rojo, ya que reprobé varios ramos. Pero logre ponerme al día en algunos, y quedó en amarillo este semestre. Y la verdad no te podría decir cuantos ramos fueron o algo, ya que no estoy segura.
+<<jump MC_dialogo8_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8307,7919
+__PrivCrochet_position: -9307,7933
 __PrivCrochet_tags: 
 title: MC_dialogo8_nivel5
 ---
 Yo: ¿Pero sabías cual era tu indice en números? ¿te orientaste al respecto? ¿tuviste ayuda de la Universidad?
+<<jump Gina3>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9595,8521
+__PrivCrochet_position: -9087,7929
 __PrivCrochet_tags: 
 title: Gina3
 ---
 Gina: Um... no tengo las respuestas a esas preguntas. Lo que sí, es que fuí asignada a algunas tutorías de ramos que estaba cursando, pero para ser sincera, nunca asistí ni vi los correos. Pero ahora que lo dices, me deben haber asignado esas tutorías por esa razón. Pero la verdad es que no tengo tiempo, ya que trabajo despúes de la Universidad...
+<<jump MC_dialogo9_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8069,7918
+__PrivCrochet_position: -8833,7928
 __PrivCrochet_tags: 
 title: MC_dialogo9_nivel5
 ---
 Yo: Gracias por tu respuesta. Debe haber sido por eso, ya que el Sistema de Alertas Académicas, según la página de Estudiantes de la Universidad (www.estudiantespucv.cl) ofrece distintos tipos de acompañamientos, los cuales son apoyo vocacional y psicoeducativo, reforzamiento de asignaturas de ciencias básicas, y finalmente tutorías académicas. Lo busqué en mi teléfono y encontré la información.
+<<jump Gina4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9340,8519
+__PrivCrochet_position: -8606,7938
 __PrivCrochet_tags: 
 title: Gina4
 ---
 Gina: La verdad es que no estaba enterada, gracias por la información. Consideraré ir a las tutorías de las asignaturas que más me cuesten.
+<<jump MCpensamiento7_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8580,7657
+__PrivCrochet_position: -8358,7947
 __PrivCrochet_tags: 
 title: MCpensamiento7_nivel5
 ---
 Terminó nuestro tiempo con Gina y mis compañeros encontraron buena la pregunta que le hice, ya que ellos tampoco estaban muy enterados del tema. Por lo que me dijeron que lo incluyeramos en el informe. Llegó el siguiente entrevistado, Fabián.
+<<jump Fabián1>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10116,8817
+__PrivCrochet_position: -8117,7927
 __PrivCrochet_tags: 
 title: Fabián1
 ---
 Fabian: Hola a todos, mi nombre es Fabián. Soy alumno de quinto año, y este verano hice mi práctica 2 en el Banco Town. Tuve puesto de desarrollador, era en Santiago por lo cual viajaba todos los días, lo que tuve que hacer principalmente fue...
+<<jump MCpensamiento8_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8345,7652
+__PrivCrochet_position: -7875,7935
 __PrivCrochet_tags: 
 title: MCpensamiento8_nivel5
 ---
 Por como habla, puedo notar que Fabián es un alumno destacado. No alardea ni nada, pero eso hace resaltar aún más esta característica.
+<<jump MC_dialogo10_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7824,7920
+__PrivCrochet_position: -7615,7926
 __PrivCrochet_tags: 
 title: MC_dialogo10_nivel5
 ---
 Disculpa Fabián. Se nota que tienes un buen nivel académico. ¿Podrías decirme lo que sepas del Sistema de Alertas Académicas?
+<<jump Fabián2>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9849,8816
+__PrivCrochet_position: -7361,7926
 __PrivCrochet_tags: 
 title: Fabián2
 ---
 Fabian: Claro, no hay problema. El sistema de alertas académicas es algo que se implementó hace poco, el 2020. Está centrado en el avance curricular y académico de sus estudiantes, para identificar de manera temprana potenciales riesgos académicos que deriven en una futura deserción. Este se puede ver en el aula, y tiene tres colores para identificarlos. 
 Fabian: Los colores dependen del índice del indicador semestral. Verde es hasta 0,4, amarillo hasta 0,59, y el más grave, rojo desde 0,6 a 1, representando un riesgo alto en términos académicos.
 Fabián: También sé que ofrece apoyo académico y psicológico, pudiendo ser derivado a especialistas como psicopedagogo y psicólogo.
+<<jump MC_dialogo11_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7575,7926
+__PrivCrochet_position: -7131,7930
 __PrivCrochet_tags: 
 title: MC_dialogo11_nivel5
 ---
 Yo: Wow, se nota que sabes mucho del tema... ¡Gracias!
+<<jump Fabián3>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9622,8811
+__PrivCrochet_position: -6908,7926
 __PrivCrochet_tags: 
 title: Fabián3
 ---
@@ -1432,128 +1497,142 @@ Fabian: No hay de qué. Creo que el tiempo se acabó, ¿les toca con Bruno, no? 
 Fabian: me dice aquí que alguno de ustedes se junte con él mañana en el tercer piso, donde están las secretarías. Espero que les vaya muy bien, ¡Nos vemos!
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8077,7653
+__PrivCrochet_position: -10496,8198
 __PrivCrochet_tags: 
 title: MCpensamiento9_nivel5
 ---
 Obviamente me tocó a mi venir mañana a entrevistar a Bruno... Bueno, al menos así puedo hablar con él en tranquilidad.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7835,7644
+__PrivCrochet_position: -10237,8180
 __PrivCrochet_tags: 
 title: MCpensamiento10_nivel5
 ---
 Llega el nuevo día, y despúes de clases temprano, me toca entrevistar a Bruno, el alumno de curso superior faltante por entrevistar. Debo encontrarme con él en tercer piso.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10117,9057
+__PrivCrochet_position: -9977,8200
 __PrivCrochet_tags: 
 title: Bruno1
 ---
 Bruno: Hola! me dijeron que me entrevistarías. Un gusto en conocerte, me llamo Bruno Gonzalez. ¿Que necesitas preguntarme?
+<<jump MC_dialogo12_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7345,7934
+__PrivCrochet_position: -9663,8195
 __PrivCrochet_tags: 
 title: MC_dialogo12_nivel5
 ---
 Yo: Hola! si... Tengo algunas preguntas sobre tu práctica profesional 2...
+<<jump MCpensamiento11_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7600,7649
+__PrivCrochet_position: -9452,8203
 __PrivCrochet_tags: 
 title: MCpensamiento11_nivel5
 ---
 Le hice a Bruno las preguntas sobre su práctica. Me contó bastante, se notaba que tenía mucho conocimiento sobre el tema donde la realizó, que era Desarrollo Web. Luego le pregunté sobre su desempeño a lo largo de la Universidad, para investigar de su IRA.
+<<jump Bruno2>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9844,9060
+__PrivCrochet_position: -9208,8212
 __PrivCrochet_tags: 
 title: Bruno2
 ---
 Bruno: Bueno, la verdad igual me ha ido más o menos no más en la Universidad. Este es mi séptimo año y recién di la práctica 2, estoy medio atrasado. Me falta todavía para salir un año más por lo bajito. Así que muy bien no me ha ido. Me he atrasado ya que trabajo en una empresa de Desarrollo Web con un amigo, y la verdad aveces dejo mis estudios de lados por esto.
 Bruno: se que no está bien, pero necesito el trabajo para poder mantenerme, ya que viajo todos los días desde Cartagena, y es caro el pasaje de allá hasta acá.
+<<jump MC_dialogo13_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7094,7934
+__PrivCrochet_position: -8966,8215
 __PrivCrochet_tags: 
 title: MC_dialogo13_nivel5
 ---
 Yo: Claro, entiendo. ¿Y tú sabes cuál es tu IRA?
+<<jump Bruno3>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9586,9063
+__PrivCrochet_position: -8724,8255
 __PrivCrochet_tags: 
 title: Bruno3
 ---
 Bruno: No, la verdad no sé nada de eso. ¿Tu sabes como verlo?
+<<jump MC_dialogo14_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -6862,7925
+__PrivCrochet_position: -8508,8255
 __PrivCrochet_tags: 
 title: MC_dialogo14_nivel5
 ---
 Si, debes ingresar a tu aula virtual para revisarlo, puedes verlo en tu celular.
+<<jump Bruno4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9328,9056
+__PrivCrochet_position: -8262,8246
 __PrivCrochet_tags: 
 title: Bruno4
 ---
 Bruno: Aquí estoy entrando... mi color es rojo, y mi indicador semestral dice que es 0.6, no creo que pueda ser bueno por el color, ¿no?
+<<jump MC_dialogo15_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -6620,7921
+__PrivCrochet_position: -8037,8238
 __PrivCrochet_tags: 
 title: MC_dialogo15_nivel5
 ---
 Yo: Claro, no... no es bueno. Estos días me he instruido sobre el tema ya que también desconocía sobre esto, pero te puedo explicar a grandes rasgos. El sistema de Alertas Académicas posee un indicador para determinar a quienes se encuentran en riesgo académico de deserción o eliminación. 
 Yo: Al término del semestre y con el cierre de las actas correspondientes, se realiza el cálculo de IRA, que es la abreviación del indice. Este se calcula considerando la tasa de aprobación de asignaturas, Segundas, terceras y cuartas reprobaciones activas, Retiros Parciales, Retiros Totales y tu Avance Curricular. Por lo que hay un alto riesgo actualmente.
+<<jump Bruno5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9056,9054
+__PrivCrochet_position: -7813,8233
 __PrivCrochet_tags: 
 title: Bruno5
 ---
 Bruno: Ah... Bueno. ¿Y que puede pasar con eso?
+<<jump MC_dialogo16_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7363,7654
+__PrivCrochet_position: -6878,8202
 __PrivCrochet_tags: 
 title: MCpensamiento12_nivel5
 ---
 La verdad Bruno no se veía muy preocupado...
+<<jump MCpensamiento13_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -6351,7918
+__PrivCrochet_position: -7603,8229
 __PrivCrochet_tags: 
 title: MC_dialogo16_nivel5
 ---
 Yo: Afecta directamente a la cantidad de ramos que puedes tomar. Por ejemplo, cuando tu IRA está en verde, no hay restricción. Cuando está en amarillo, puedes tomar hasta 26 créditos obligatorios y/u optativos, y seis asignaturas FOFU, mientras que quien cuente con un riesgo académico en rojo tiene un límite de 22 créditos y seis asignaturas FOFU. Esa es la principal restricción...
+<<jump Bruno6>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8789,9050
+__PrivCrochet_position: -7341,8222
 __PrivCrochet_tags: 
 title: Bruno6
 ---
 Bruno: Está bien. La verdad he reprobado bastantes ramos, pero me he ido poniendo al día con otros. Por lo que la cantidad de ramos que puedo tomar por semestre no es mucha, ya que estoy atrasado en varios y los que me quedaban por semestre ya los pasé, así que no es una preocupación para mí. ¿Tienes otra pregunta?
+<<jump MC_dialogo17_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -6100,7913
+__PrivCrochet_position: -7120,8219
 __PrivCrochet_tags: 
 title: MC_dialogo17_nivel5
 ---
 Yo: No, ninguna, gracias por tu tiempo...
+<<jump MCpensamiento12_nivel5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7100,7645
+__PrivCrochet_position: -6601,8223
 __PrivCrochet_tags: 
 title: MCpensamiento13_nivel5
 ---
 Bruno me dio una sonrisa y se fue. La verdad me ha dejado pensando el peso de las reprobaciones reiteradas, y lo mucho que pueden retrasar la carrera. Me pregunto como estará Felipe...
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8265,9607
+__PrivCrochet_position: -9556,8838
 __PrivCrochet_tags: 
 title: Pregunta15
 ---
@@ -1564,9 +1643,11 @@ title: Pregunta15
    Correcto!
 -> Con IRA Amarillo hay restricción para toma de asignatura en créditos obligatorios y FOFUS. 
    Incorrecto!
+
+<<jump Pregunta16>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7944,9603
+__PrivCrochet_position: -9235,8834
 __PrivCrochet_tags: 
 title: Pregunta16
 ---
@@ -1577,9 +1658,11 @@ Selecciona la opción que muestre correctamente el órden de los indicadores.
    Incorrecto!
 -> Verde = hasta 0.4 ; amarillo hasta 0.7; rojo hasta 1.
    Incorrecto!
+
+<<jump Pregunta17>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7632,9606
+__PrivCrochet_position: -8923,8837
 __PrivCrochet_tags: 
 title: Pregunta17
 ---
@@ -1592,189 +1675,217 @@ title: Pregunta17
    Incorrecto!
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10126,10186
+__PrivCrochet_position: -10411,10081
 __PrivCrochet_tags: 
 title: MC_pensamiento_GoodEnding1
 ---
 Llegó el final de semana... Hoy sabremos si he ganado la GameStation6... Independiente de esto, siento que he aprendido bastante en el último tiempo, así que estoy feliz. Pero antes de esto, hoy toca clase en la S1-2. Creo que entregarán las notas de la prueba, estoy nervioso... Será mejor que vaya antes que se me haga tarde.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9858,10179
+__PrivCrochet_position: -10131,10083
 __PrivCrochet_tags: 
 title: MC_pensamiento_GoodEnding2
 ---
 Entro a la sala y me siento al lado de Felipe. Se ve bien afligido. Le doy una sonrisa de ánimo. El profesor empieza a entregar las notas, se sienten los nervios en la sala.
+<<jump Felipe19>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10120,10481
+__PrivCrochet_position: -9885,10080
 __PrivCrochet_tags: 
 title: Felipe19
 ---
 Felipe: Si hoy me va mal, está todo perdido para mi... espero haberme sacado un 4.
+<<jump MC_pensamiento_GoodEnding3>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9586,10182
+__PrivCrochet_position: -9623,10072
 __PrivCrochet_tags: 
 title: MC_pensamiento_GoodEnding3
 ---
 Justo mientras habla, el profesor William se acerca a él a entregarle su nota. El profesor lo mira tajante, pero sonríe.
+<<jump William3>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10145,10763
+__PrivCrochet_position: -9353,10085
 __PrivCrochet_tags: 
 title: William3
 ---
 William: Felicidades Felipe. Se nota que este semestre se puso las pilas.
+<<jump MC_pensamiento_GoodEnding4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9313,10180
+__PrivCrochet_position: -9084,10090
 __PrivCrochet_tags: 
 title: MC_pensamiento_GoodEnding4
 ---
 Ambos reímos. Felipe ve su nota, un 4.7. Puedo sentir que se va a largar a llorar, pero se contiene. Este es realmente un buen momento para él. Pero luego el profesor se voltea a mí, a entregar mi calificación. Me mira con rechazo, levantando una ceja.
+<<jump William4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9874,10761
+__PrivCrochet_position: -8844,10100
 __PrivCrochet_tags: 
 title: William4
 ---
 William: Espero que estén estudiando y no solo riéndose. Les hace falta a ambos estudiar para subir esas notas. Espero que así sea y no anden holgazaneando.
+<<jump MC_pensamiento_GoodEnding5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9040,10179
+__PrivCrochet_position: -8575,10096
 __PrivCrochet_tags: 
 title: MC_pensamiento_GoodEnding5
 ---
 El mundo se me desploma, el profesor me entrega mi nota pero no deseo verla, despúes de lo que me ha dicho no me atrevo... ¿y que pasa si me ha ido mal? ¿mi IRA quedará en rojo? ¿me expulsarán? ¿nunca podré titular? ¿me atrasaré y sacaré la carrera en 10 años?
 Trato de esquivar sobrepensar, y doy vuelta mi hoja.
 Es un...
+<<jump Felipe20>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9857,10492
+__PrivCrochet_position: -8329,10095
 __PrivCrochet_tags: 
 title: Felipe20
 ---
 Felipe: Wow! te fue super bien! eres seco. Un 4.9 como primera nota en programación es todo un logro. Te felicito. Este es el verdadero premio, debemos ir a celebrar!!
+<<jump MC_pensamiento_GoodEnding6>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8774,10178
+__PrivCrochet_position: -10139,10352
 __PrivCrochet_tags: 
 title: MC_pensamiento_GoodEnding6
 ---
-Me quedo sin palabras... siento que no hay nada mejor. Mi esfuerzo se ve reflejado y es una hermosa sensación. Sentir que me esforcé por algo y lo logré es super gratificante. Mientras pienso en eso, entra Nicanor a la sala. Trae con él una caja, una caja de GameStation6.
+Me quedo sin palabras... siento que no hay nada mejor. Mi esfuerzo se ve reflejado y es una hermosa sensación. Sentir que me esforcé por algo y lo logré es super gratificante. Mientras pienso en eso, entra Nicanor a la sala. Trae con él un sobre.
+<<jump Nicanor5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10153,11037
+__PrivCrochet_position: -9905,10347
 __PrivCrochet_tags: 
 title: Nicanor5
 ---
 Nicanor: Hola a todos alumnos, espero estén super bien. Con autorización del profesor, venimos a entregar el premio de nuestra búsqueda de tesoro. Es un honor como centro de estudiantes entregar similar premio, ya que se hizo la actividad con mucho cariño por ustedes, los mechones. Por lo que diré el nombre del ganador...
+<<jump MC_pensamiento_GoodEnding7>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8477,10189
+__PrivCrochet_position: -9650,10357
 __PrivCrochet_tags: 
 title: MC_pensamiento_GoodEnding7
 ---
-Ni en mis sueños más locos, pensé que mi nombre saldría de la boca del presidente del Centro de Estudiantes. Yo... había ganado. Pasé adelante a recibirlo, todos mis compañeros me felicitaron, nos sacamos fotos, hasta el profesor me dio una sonrisa de aprobación. Estaba anonadado. Si bien el inicio de semestre ha sido duro, tengo esperanza y certeza que lo que viene serán los mejores y más locos años de mi vida, aquí, en la Escuela de Ingeniería Informática de la PUCV. Y bueno, por ahora... con Felipe iremos a celebrar a mi casa nuestras notas, a comer pizza y jugar GameStation....
+Ni en mis sueños más locos, pensé que mi nombre saldría de la boca del presidente del Centro de Estudiantes. Yo... había ganado.
+Pasé adelante a recibirlo, todos mis compañeros me felicitaron.
+Nicanor: No tan rápido amiguito, aquí traigo la pista final para encontrar tu premio. Hemos escondido muchos regalos entrega la facultad, y solo 1 de ellos tiene la GameStation 6. Toma
+Me entrega el sobre. Lo abro y aparece la pista.
+"Donde tu aventura empezó y el sol nunca llega, un secreto te espera en sombras serenas. Desciende profundo, no temas la oscuridad, allí el tesoro aguarda con gran humildad."
+Es un acertijo.
+Debo ir a encontrar el regalo correcto.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10155,11639
+__PrivCrochet_position: -10411,10964
 __PrivCrochet_tags: 
 title: MC_pensamiento_BadEnding1
 ---
 Llegó el final de semana... Hoy sabremos si he ganado la GameStation6... Pero antes de esto, hoy toca clase en la S1-2. Creo que entregarán las notas de la prueba, estoy nervioso... Será mejor que vaya antes que se me haga tarde.
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9878,11636
+__PrivCrochet_position: -10163,10951
 __PrivCrochet_tags: 
 title: MC_pensamiento_BadEnding2
 ---
 Entro a la sala y me siento al lado de Felipe. Se ve bien afligido. Le doy una sonrisa de ánimo. El profesor empieza a entregar las notas, se sienten los nervios en la sala.
+<<jump Felipe21>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9605,11648
+__PrivCrochet_position: -9670,10954
 __PrivCrochet_tags: 
 title: MC_pensamiento_BadEnding3
 ---
 Justo mientras habla, el profesor William se acerca a él a entregarle su nota. El profesor lo mira tajante, con desaprobación.
+<<jump William5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9340,11644
+__PrivCrochet_position: -9177,10960
 __PrivCrochet_tags: 
 title: MC_pensamiento_BadEnding4
 ---
 Nos miramos preocupados. Felipe ve su nota, un 3.7. Puedo sentir que se va a largar a llorar, pero se contiene. Este es realmente un mal momento para él. Pero luego el profesor se voltea a mí, a entregar mi calificación. Me mira con rechazo, levantando una ceja.
+<<jump William6>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10173,12027
+__PrivCrochet_position: -9914,10952
 __PrivCrochet_tags: 
 title: Felipe21
 ---
 Felipe: Si hoy me va mal, está todo perdido para mi... espero haberme sacado un 4.
+<<jump MC_pensamiento_BadEnding3>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10176,12329
+__PrivCrochet_position: -9419,10960
 __PrivCrochet_tags: 
 title: William5
 ---
 William: Felipe, se que puede hacerlo mejor. Pero debe hacerlo a tiempo, o no habrán más oportunidades.
+<<jump MC_pensamiento_BadEnding4>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9932,12334
+__PrivCrochet_position: -8943,10973
 __PrivCrochet_tags: 
 title: William6
 ---
 William: Espero que estén estudiando y no solo riéndose. Les hace falta a ambos estudiar para subir esas notas. Espero que así sea y no anden holgazaneando.
+<<jump MC_pensamiento_BadEnding5>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9076,11644
+__PrivCrochet_position: -8719,10987
 __PrivCrochet_tags: 
 title: MC_pensamiento_BadEnding5
 ---
 El mundo se me desploma, el profesor me entrega mi nota pero no deseo verla, despúes de lo que me ha dicho no me atrevo... ¿y que pasa si me ha ido mal? ¿mi IRA quedará en rojo? ¿me expulsarán? ¿nunca podré titular? ¿me atrasaré y sacaré la carrera en 10 años?
 Trato de esquivar sobrepensar, y doy vuelta mi hoja.
 Es un...
+<<jump Felipe22>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9898,12034
+__PrivCrochet_position: -8453,10988
 __PrivCrochet_tags: 
 title: Felipe22
 ---
 Felipe: Bueno... un 3.9 es igualmente una buena nota, yo la primera vez que di este ramo, la nota de mi prueba 1 fue un 1.9. Así que no te desanimes, ambos subiremos las notas y pasaremos este semestre, lo sé. Es una nota fácil de subir.
+<<jump MC_pensamiento_BadEnding6>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8810,11650
+__PrivCrochet_position: -8222,10985
 __PrivCrochet_tags: 
 title: MC_pensamiento_BadEnding6
 ---
 Me quedo sin palabras... siento que podría haber sido mejor Mi esfuerzo se ve reflejado y me siento triste. Quizás debí haber estudiado más, haber puesto más atención y ser más abierto al conocimiento que me entregaron quienes conocí. 
 Mientras pienso en eso, entra Nicanor a la sala. Trae con él una caja, una caja de GameStation6.
+<<jump Nicanor6>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -10184,12655
+__PrivCrochet_position: -10406,11274
 __PrivCrochet_tags: 
 title: Nicanor6
 ---
 Nicanor: Hola a todos alumnos, espero estén super bien. Con autorización del profesor, venimos a entregar el premio de nuestra búsqueda de tesoro. Es un honor como centro de estudiantes entregar similar premio, ya que se hizo la actividad con mucho cariño por ustedes, los mechones. Por lo que diré el nombre del ganador...
+<<jump MC_pensamiento_BadEnding7>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8555,11656
+__PrivCrochet_position: -10168,11262
 __PrivCrochet_tags: 
 title: MC_pensamiento_BadEnding7
 ---
 Nicanor dice el nombre de una compañera. Me siento feliz por ella. Pero no puedo dejar de pensar que podría haber sido yo....
+<<jump Felipe23>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -9600,12033
+__PrivCrochet_position: -9892,11268
 __PrivCrochet_tags: 
 title: Felipe23
 ---
 Felipe: Oye... No te desanimes. Ya habrán más oportunidades, en todo. La Universidad es una instancia para equivocarse y levantarse. No pienses que por reprobar un ramo, o no ganar un premio, todo se ha acabado. 
 Felipe: Tienes por lo mínimo, 5 años más por delante. Tendrás instancias donde las cosas serán difíciles, otras fáciles, felices, tristes, pero al fin y al cabo, todo es un aprendizaje. No lo sabré yo, que ya me he pegado varios porrazos. Pero mírame, estoy firme. Y confío en que todo mejorará. 
 Felipe: Para subir el ánimo, te invito a mi casa a pasar las penas. Comemos pizza y jugamos GameStation, yo tengo la 5 en mi casa, ¿te animas?
+<<jump MC_pensamiento_BadEnding8>>
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -8201,11715
+__PrivCrochet_position: -9669,11269
 __PrivCrochet_tags: 
 title: MC_pensamiento_BadEnding8
 ---
@@ -1928,4 +2039,237 @@ Yo: No gracias, así estoy bien...
 Felipe me mira como si estuviera pensando "No seas maleducado"
 Felipe: Creo que no nos haría daño escucharla de todas formas.
 <<jump Bibliotecaria2>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10191,-1555
+__PrivCrochet_tags: 
+title: notalkprofe
+---
+El profesor se ve ocupado, prefiero no molestarlo.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9094,516
+__PrivCrochet_tags: 
+title: pc_off
+---
+Está apagado.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7964,-2866
+__PrivCrochet_tags: 
+title: baño_hombre
+---
+El cartel dice: "Baño de hombres fuera de servicio"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7961,-2645
+__PrivCrochet_tags: 
+title: baño_mujer
+---
+El cartel dice: "Baño de mujeres fuera de servicio"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7795,-1899
+__PrivCrochet_tags: 
+title: sala_S1-5
+---
+El cartel dice: "Sala s1-5"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7966,-827
+__PrivCrochet_tags: 
+title: End1
+---
+Una semana después...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7999,1871
+__PrivCrochet_tags: 
+title: coment1
+---
+Felipe: Para encontrar el libro tenemos que ir al FIN. Significa "Facultad de Ingeniería".
+Yo: ¿Y eso dónde queda?
+Felipe: Mira, salgamos del edificio primero y te explico.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7705,1871
+__PrivCrochet_tags: 
+title: coment2
+---
+Yo: ¿Ahora a dónde vamos?
+Felipe: Caminemos hacia la izquierda hasta encontrar un edificio Blanco con escaleras de entrada.
+Yo: Ok.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8066,2118
+__PrivCrochet_tags: 
+title: coment3
+---
+Felipe: Llegamos al FIN. Ahora tenemos que encontrar la biblioteca.
+Yo: Este lugar es muy bonito.
+Felipe: Si, pero por desgracia hoy no podré darte un recorrido. Las carreras de estas sedes están haciendo actividades, por lo que no podemos pasar ni a los otros pisos ni a la cafetería de aquí.
+Yo: ¿También tienen cafetería?
+Felipe: Si, está hacia esas puertas de cristal que están más adelante. Pero ahora, tenemos que ir por la izquierda.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7578,-3181
+__PrivCrochet_tags: 
+title: basura
+---
+Ugh, aquí está muy sucio...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7572,-2935
+__PrivCrochet_tags: 
+title: arbolito
+---
+¡Que lindo arbolito! Pero...ni siquiera estamos cerca de navidad.
+Tiene una nota pegada, ¿La Leo?
+-> Sí
+    NO MOVER!!!! Atte: Emily <3
+-> No
+    No me interesa.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7582,-3419
+__PrivCrochet_tags: 
+title: gatito
+---
+Hay un gatito aquí, es muy lindo.
+-> Acariciarlo
+    ¡Es un gatito muy lindo! Empecé a acariciarlo y de inmediato empezó a ronronear.
+-> Ignorarlo
+    Mejor no lo toco.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7324,-3597
+__PrivCrochet_tags: 
+title: carro1
+---
+Hay muchos puestos de comida cerca de la universidad.
+Este en específico vende completos. El olor hace que me dé mucha hambre...
+Pero no tengo suficiente dinero para comprar nada.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7313,-3377
+__PrivCrochet_tags: 
+title: carro3
+---
+Hay muchos puestos de comida cerca de la universidad.
+Este en específico vende papas fritas. El olor hace que me dé mucha hambre...
+Pero no tengo suficiente dinero para comprar nada.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7067,-3568
+__PrivCrochet_tags: 
+title: carro2
+---
+Hay muchos puestos de comida cerca de la universidad.
+Este en específico vende pizza. El olor hace que me dé mucha hambre...
+Pero no tengo suficiente dinero para comprar nada.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9191,10392
+__PrivCrochet_tags: 
+title: premio
+---
+Abro la caja cuidadosamente...¡¡¡¡ENCONTRÉ LA GAMESTATION 6!!!!
+<<jump premio2-4>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -6854,-3272
+__PrivCrochet_tags: 
+title: no_premio
+---
+Abro la caja cuidadosamente...hay una nota adentro.
+"Esta no es la caja correcta. Mejor suerte para la próxima"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9761,4025
+__PrivCrochet_tags: 
+title: ofi1
+---
+Golpeamos la puerta cuidadosamente. Este lugar se ve muy serio...
+Escuchamos un ¡Pase! Que viene del otro lado.
+Entramos y nos encontramos a un profesor que se ve muy relajado.
+<<jump Chester1>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8781,4028
+__PrivCrochet_tags: 
+title: ofi2
+---
+Golpeamos la puerta pero no obtenemos respuesta. Golpeamos de nuevo después de unos minutos...nada
+Ya estábamos por rendirnos cuando escuchamos un "Pase".
+Al entrar vemos a quién asumo es el profesor Marcelo. Se ve bastante cansado.
+<<jump Marcelo1>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8815,5706
+__PrivCrochet_tags: 
+title: clase_2-6
+---
+Una clase aburrida después...
+<<jump Felipe9>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10043,6714
+__PrivCrochet_tags: 
+title: Juanita4
+---
+Juanita: Hola! aquí puedes responder tus preguntas de la semana 4, ¿estás listo?
+-> Si!
+    Genial.
+-> Aún no.
+    Vuelve cuando estés listo.
+-> ...
+    Vuelve cuando estés listo.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10362,8525
+__PrivCrochet_tags: 
+title: Juanita5
+---
+Juanita: Hola! aquí puedes responder tus preguntas de la semana 5, ¿estás listo?
+-> Si!
+    Genial.
+-> Aún no.
+    Vuelve cuando estés listo.
+-> ...
+    Vuelve cuando estés listo.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -8961,10389
+__PrivCrochet_tags: 
+title: premio2-4
+---
+Vuelvo a la sala triunfante, con la caja de la GameStation6 en las manos.Todos me aplauden,nos sacamos fotos, hasta el profesor me dio una sonrisa de aprobación. Estaba anonadado. Si bien el inicio de semestre ha sido duro, tengo esperanza y certeza que lo que viene serán los mejores y más locos años de mi vida, aquí, en la Escuela de Ingeniería Informática de la PUCV. Y bueno, por ahora... con Felipe iremos a celebrar a mi casa nuestras notas, a comer pizza y jugar GameStation....
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -9307,2584
+__PrivCrochet_tags: 
+title: End2
+---
+Una semana después...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -7292,5296
+__PrivCrochet_tags: 
+title: stand
+---
+Este es el stand de la PUCV inclusiva.
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10034,4963
+__PrivCrochet_tags: 
+title: End3
+---
+Una semana después...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -10021,8536
+__PrivCrochet_tags: 
+title: End4
+---
+Una semana después...
 ===

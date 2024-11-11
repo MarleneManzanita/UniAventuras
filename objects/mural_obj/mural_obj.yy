@@ -1,19 +1,19 @@
 {
   "$GMObject":"",
   "%Name":"mural_obj",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"mural_obj",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_interactive","path":"objects/obj_interactive/obj_interactive.yy",},"propertyId":{"name":"texto","path":"objects/obj_interactive/obj_interactive.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"mural_1\"",},
+  ],
   "parent":{
     "name":"biblioteca",
     "path":"folders/Objetos/biblioteca.yy",
   },
   "parentObjectId":{
-    "name":"NPC",
-    "path":"objects/NPC/NPC.yy",
+    "name":"obj_interactive",
+    "path":"objects/obj_interactive/obj_interactive.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

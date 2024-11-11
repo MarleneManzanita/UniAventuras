@@ -22,7 +22,7 @@ if ChatterboxIsWaiting(chatterbox)&& keyboard_check_pressed(vk_space) {
 		    text        = ChatterboxGetContent(chatterbox,0);
 		    nodeTitle   = ChatterboxGetCurrent(chatterbox);  
 		
-				if(nodeTitle=="Juanita1"&&text=="Si!"){
+				if((nodeTitle=="Juanita1"||nodeTitle=="Juanita2"||nodeTitle=="Juanita3"||nodeTitle=="Juanita4"||nodeTitle=="Juanita5")&&text=="Genial."){
 					room_goto(room_preguntas);
 				}
 		  } 		

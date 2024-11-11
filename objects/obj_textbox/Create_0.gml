@@ -15,7 +15,7 @@ depth=-10000;
 setup=false;
 option_index = 0;                                  // Initialize option index
 count=0;
-SprScale = 6;
+SprScale = 1;
 
 size = [0.7, 0.75];                                // Character sprite scale (small and large)
 colour = [c_ltgray, c_white];

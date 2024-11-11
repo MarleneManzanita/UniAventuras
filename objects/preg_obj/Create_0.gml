@@ -3,7 +3,7 @@
 textbox_width =1000;
 textbox_height= 500;
 border=13;
-line_sep =15;
+line_sep =30;
 line_width= textbox_width-border*2;
 txtb_spr= spr_question;
 txtb_img=0;

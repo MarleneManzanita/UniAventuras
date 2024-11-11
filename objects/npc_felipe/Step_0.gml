@@ -21,4 +21,3 @@ if(following){
 if(global.current != nivel){
 	instance_destroy();
 }
-

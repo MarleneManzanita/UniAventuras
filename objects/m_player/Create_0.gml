@@ -3,6 +3,7 @@
 xspd = 0;
 yspd = 0;
 nearby_npc= noone;
+nearby_obj=noone;
 look_range=50;
 global.player_control=true;
 

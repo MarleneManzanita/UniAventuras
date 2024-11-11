@@ -3,5 +3,4 @@
 sprite_index=spr_pc_off;
 image_speed=0;
 image_index=0;
-_current = "";
-
+_current="";

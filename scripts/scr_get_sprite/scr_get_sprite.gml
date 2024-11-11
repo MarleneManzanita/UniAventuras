@@ -44,7 +44,7 @@ function scr_get_sprite(_name){
 			_sprite=BIBLIOTECARIA;
 		break;
 		case "Leopoldo":
-			_sprite = LEOPOLDO;
+			_sprite = LEO;
 		break;
 		case "Srta. Zafiro":
 			_sprite = ZAFIRO;

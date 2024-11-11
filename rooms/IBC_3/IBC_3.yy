@@ -53,6 +53,7 @@
     {"name":"inst_238F9F9C","path":"rooms/IBC_3/IBC_3.yy",},
     {"name":"inst_16B86EB3","path":"rooms/IBC_3/IBC_3.yy",},
     {"name":"inst_6F176127","path":"rooms/IBC_3/IBC_3.yy",},
+    {"name":"inst_22DC0079","path":"rooms/IBC_3/IBC_3.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -85,6 +86,7 @@
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-89.79509,"scaleX":1.0,"scaleY":1.0,"x":1369.6345,"y":326.0,},
         {"$GMRInstance":"v1","%Name":"ibc_3_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"ibc_3_2","objectId":{"name":"entrada","path":"objects/entrada/entrada.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1284.0,"y":129.0,},
         {"$GMRInstance":"v1","%Name":"ibc_3_3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"ibc_3_3","objectId":{"name":"entrada","path":"objects/entrada/entrada.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1284.0,"y":338.15002,},
+        {"$GMRInstance":"v1","%Name":"inst_22DC0079","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_22DC0079","objectId":{"name":"obj_no_premio","path":"objects/obj_no_premio/obj_no_premio.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":596.0,"y":388.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_B13DEB2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_B13DEB2","objectId":{"name":"muro","path":"objects/muro/muro.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.34375,"scaleY":1.0,"x":570.0,"y":629.0,},
@@ -121,7 +123,7 @@
           -82,-2147483648,4,1396,1397,1208,1209,-84,-2147483648,2,1240,1241,-168,-2147483648,2,1168,1169,-84,-2147483648,
           2,1200,1201,-84,-2147483648,4,1232,1233,1558,1559,-84,-2147483648,2,1590,1591,-5,-2147483648,-2,0,-77,
           -2147483648,2,1622,1623,-5,-2147483648,-2,0,-77,-2147483648,2,1654,1655,-5,-2147483648,-2,0,-1901,-2147483648,
-        ],"TileDataFormat":1,},"tilesetId":{"name":"tileset_tienda","path":"tilesets/tileset_tienda/tileset_tienda.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+        ],"TileDataFormat":1,},"tilesetId":{"name":"tileset_jail","path":"tilesets/tileset_jail/tileset_jail.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"Tiles_3","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_3","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
           -1266,-2147483648,3,352,353,354,-5,355,-78,-2147483648,3,384,385,386,-5,387,-78,-2147483648,3,416,417,
           418,-5,419,-66,-2147483648,3,1073743726,1073743694,1073743662,-9,-2147483648,2,416,417,-72,-2147483648,

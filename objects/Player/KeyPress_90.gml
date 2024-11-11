@@ -3,7 +3,7 @@
 
 if(nearby_npc!= noone && global.player_control){
 	var _text= nearby_npc.char_id;
-	if (!instance_exists(obj_textbox)) {
+	if (!instance_exists(obj_textbox)&&!nearby_npc.following) {
 		global.player_control=false;
 		scr_create_text(_text,"texto1.yarn");
 		if(nearby_npc==obj_pc_spr){
@@ -12,4 +12,12 @@ if(nearby_npc!= noone && global.player_control){
 	}
 	
 
+}
+
+if(nearby_obj!= noone && global.player_control){
+	var _text= nearby_obj.texto;
+	if (!instance_exists(obj_textbox)) {
+		global.player_control=false;
+		scr_create_text(_text,"texto1.yarn");
+	}
 }
