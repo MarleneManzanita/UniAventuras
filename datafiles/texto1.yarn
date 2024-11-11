@@ -2069,7 +2069,7 @@ title: baño_mujer
 El cartel dice: "Baño de mujeres fuera de servicio"
 ===
 __PrivCrochet_colorID: 0
-__PrivCrochet_position: -7795,-1899
+__PrivCrochet_position: -8176,-2042
 __PrivCrochet_tags: 
 title: sala_S1-5
 ---
@@ -2272,4 +2272,18 @@ __PrivCrochet_tags:
 title: End4
 ---
 Una semana después...
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -11301,744
+__PrivCrochet_tags: 
+title: sala_S1-3
+---
+El cartel dice "Sala S1-3"
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: -11810,896
+__PrivCrochet_tags: 
+title: sala_S1-4
+---
+El cartel dice "Sala S1-4"
 ===

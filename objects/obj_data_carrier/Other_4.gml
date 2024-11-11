@@ -129,6 +129,12 @@ if (!instance_exists(NPC)) {
 						global.events_4[INICIO4]=true;
 					}
 				break;
+				case PREG4:
+					if(room==IBC_1){
+						scr_create_character("Juanita4",4,775,536,npc_juanita);
+						global.events_4[PREG4]=true;
+					}
+				break;
 			}
 		break;
 		case 5:

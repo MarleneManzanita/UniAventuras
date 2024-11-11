@@ -10,5 +10,9 @@ function scr_get_current_event(_array){
 			break;
 		}
 	}
+	
+	if(_array[_long-1]==true){
+		_curr=_long-1;
+	}
 	return _curr;
 }
