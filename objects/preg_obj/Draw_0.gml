@@ -47,7 +47,7 @@ if ChatterboxIsStopped(chatterbox){
 	  for (var _i = 0; _i < ChatterboxGetOptionCount(chatterbox); _i++){
 		   var _option = string(_i+1) +": " + ChatterboxGetOption(chatterbox, _i);
 		 //_i starts at 0, but we want the choices to be numbered 1–2–3 not 0–1–2, so we +1 to it when we make our string to draw.
-			_opty+=80;
+			_opty+=85;
 		  draw_text_ext(_x + border+44,_opty + border,_option,line_sep,line_width);
 		  //draw_text(_x,_opty,_option);
 		  
